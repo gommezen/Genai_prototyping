@@ -22,6 +22,7 @@ pip install -r requirements.txt
 
 ### 3. Run streamlit app 
 streamlit run apps/app_reader01.py
-# or
+
+### or
 streamlit run app_reader.py
 
