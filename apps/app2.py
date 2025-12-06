@@ -8,13 +8,39 @@ import plotly.express as px
 import altair as alt
 
 
-# Helper function to get dataset path
-def get_dataset_path():
-    # Get the current script directory
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    # Construct the path to the CSV file
-    csv_path = os.path.join(current_dir, "data", "customer_reviews.csv")
-    return csv_path
+# # Helper function to get dataset path
+# def get_dataset_path():
+#     # Get the current script directory
+#     current_dir = os.path.dirname(os.path.abspath(__file__))
+#     # Construct the path to the CSV file
+#     csv_path = os.path.join(current_dir, "data", "customer_reviews_long_clean.csv")
+#     return csv_path
+
+def get_dataset_path(filename="customer_reviews_long_clean.csv"):
+    """
+    Resolve the absolute path to a dataset stored in the project's /data folder.
+    Works even when this script is located inside an /apps directory.
+    """
+
+    # Directory of the current script (e.g., .../genai-prototype/apps/)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Project root = parent folder of /apps
+    project_root = os.path.dirname(script_dir)
+
+    # Final dataset path: .../genai-prototype/data/<filename>
+    data_path = os.path.join(project_root, "data", filename)
+
+    # Validate that the dataset actually exists
+    if not os.path.exists(data_path):
+        raise FileNotFoundError(
+            f"Dataset not found at: {data_path}\n"
+            f"Expected location:\n"
+            f"genai-prototype/data/{filename}"
+        )
+
+    return data_path
+
 
 
 # Helper function to clean text

@@ -43,6 +43,9 @@ logs/
 *.pdf
 data/
 datasets/
+data/*
+!data/customer_reviews_long_clean.csv
+!data/shipping_logs_clean.csv
 
 # -----------------------------
 # VSCode / Editor settings
