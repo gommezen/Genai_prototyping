@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+altair
+matplotlib
+python-dotenv
+openai
+requests>=2.32
+jupyterlab>=4.2
+

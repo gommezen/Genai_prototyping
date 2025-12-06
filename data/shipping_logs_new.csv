@@ -1,0 +1,1001 @@
+Order ID,Shipping Date,Carrier,Tracking Number,Latitude,Longitude,Status,Delivery Days,Late,Region
+3099,2025-01-01,NorthPeak Express,470487686,-14.690998,-67.237407,Delayed,14,True,South America
+3166,2025-01-02,NorthPeak Express,285968970,42.432905,-88.763877,Returned,13,True,North America
+3116,2025-01-03,TrailRunner Logistics,506302860,37.123109,-108.235625,Delayed,4,False,North America
+3788,2025-01-04,NorthPeak Express,409074593,58.30921,17.38375,In Transit,10,False,Europe
+3748,2025-01-05,TrailRunner Logistics,368726455,21.799075,145.153477,Delivered,9,False,Asia
+3958,2025-01-06,TrailRunner Logistics,200354338,24.775636,142.402725,Delayed,13,True,Asia
+3065,2025-01-07,SnowWing Delivery,782605483,-45.570622,-50.291488,In Transit,13,True,South America
+3075,2025-01-08,NorthPeak Express,541356285,41.859535,125.41013,In Transit,4,False,Asia
+3739,2025-01-09,NorthPeak Express,184357118,28.668194,-122.554226,Delivered,6,False,North America
+3986,2025-01-10,GlacierLine Freight,337232004,51.604254,122.135594,Delivered,10,False,Asia
+3852,2025-01-11,SnowWing Delivery,390446132,-38.077604,-77.503323,Delayed,11,True,South America
+3447,2025-01-12,SummitCargo Transport,378476154,49.435506,9.893653,Delivered,11,True,Europe
+3029,2025-01-13,TrailRunner Logistics,266220645,58.45394,-0.60922,Delayed,6,False,Europe
+3770,2025-01-14,TrailRunner Logistics,183277448,55.893915,-8.931012,Returned,8,False,Europe
+3064,2025-01-15,NorthPeak Express,666276941,47.801711,21.344591,Delayed,5,False,Europe
+3888,2025-01-16,GlacierLine Freight,345429508,57.217138,-3.918015,In Transit,9,False,Europe
+3295,2025-01-17,SummitCargo Transport,815618061,29.950321,-90.243977,Returned,1,False,North America
+3773,2025-01-18,TrailRunner Logistics,301164656,-40.218464,-43.095566,Returned,2,False,South America
+3793,2025-01-19,SnowWing Delivery,329967546,-48.490762,-40.956964,Returned,12,True,South America
+3746,2025-01-20,NorthPeak Express,667186808,-33.643653,-38.404205,In Transit,3,False,South America
+3882,2025-01-21,SnowWing Delivery,749865106,30.003523,132.59663,Delivered,14,True,Asia
+3334,2025-01-22,SummitCargo Transport,614670079,47.51526,5.985469,Delivered,7,False,Europe
+3355,2025-01-23,SummitCargo Transport,889945363,28.338507,-104.643187,Delivered,9,False,North America
+3207,2025-01-24,SnowWing Delivery,722804962,30.146498,116.864924,Returned,14,True,Asia
+3823,2025-01-25,NorthPeak Express,952616208,20.080822,79.990659,Delayed,2,False,Asia
+3152,2025-01-26,NorthPeak Express,998181273,50.59177,-7.47868,In Transit,4,False,Europe
+3875,2025-01-27,TrailRunner Logistics,694562658,36.714403,-100.566064,Returned,5,False,North America
+3167,2025-01-28,TrailRunner Logistics,330957363,32.220133,-123.354812,Returned,13,True,North America
+3386,2025-01-29,NorthPeak Express,958106487,28.338925,-116.046062,In Transit,2,False,North America
+3562,2025-01-30,TrailRunner Logistics,145166500,40.048545,122.62399,Returned,12,True,Asia
+3907,2025-01-31,SummitCargo Transport,177815959,16.65939,97.217243,Delivered,9,False,Asia
+3556,2025-02-01,SummitCargo Transport,140372143,59.368458,4.712171,Delivered,8,False,Europe
+3189,2025-02-02,GlacierLine Freight,541682682,28.804756,112.402305,Delayed,5,False,Asia
+3575,2025-02-03,NorthPeak Express,216318702,10.836344,-54.995116,Returned,9,False,South America
+3242,2025-02-04,TrailRunner Logistics,451563008,-23.123293,-37.642019,In Transit,9,False,South America
+3912,2025-02-05,SnowWing Delivery,204476657,36.253265,-79.877357,Delivered,4,False,North America
+3425,2025-02-06,TrailRunner Logistics,981580775,39.427571,62.274392,In Transit,5,False,Asia
+3220,2025-02-07,SummitCargo Transport,722980887,42.048853,-109.856596,Delivered,6,False,North America
+3048,2025-02-08,GlacierLine Freight,409423938,9.242652,-51.679613,In Transit,13,True,South America
+3239,2025-02-09,TrailRunner Logistics,473986039,-1.200446,-71.059039,In Transit,6,False,South America
+3659,2025-02-10,GlacierLine Freight,115026648,35.443794,-103.461911,Returned,4,False,North America
+3610,2025-02-11,SnowWing Delivery,920199014,28.241158,-96.915318,Delayed,5,False,North America
+3893,2025-02-12,SnowWing Delivery,620043134,9.444719,-54.393643,Returned,1,False,South America
+3417,2025-02-13,NorthPeak Express,284514961,31.890806,134.918352,Delayed,9,False,Asia
+3607,2025-02-14,SummitCargo Transport,770590571,30.269965,-89.449878,Delayed,1,False,North America
+3026,2025-02-15,TrailRunner Logistics,420723348,27.80801,94.480357,Returned,12,True,Asia
+3157,2025-02-16,TrailRunner Logistics,213012880,35.771428,-124.089893,Delivered,9,False,North America
+3314,2025-02-17,TrailRunner Logistics,816604271,-13.206662,-59.329941,Returned,4,False,South America
+3615,2025-02-18,TrailRunner Logistics,535779126,-29.043964,-76.932851,Returned,11,True,South America
+3771,2025-02-19,TrailRunner Logistics,293993757,27.361622,-112.173719,Delivered,9,False,North America
+3577,2025-02-20,NorthPeak Express,990306413,-47.701887,-59.570791,In Transit,2,False,South America
+3326,2025-02-21,GlacierLine Freight,586293439,55.677859,25.47482,In Transit,10,False,Europe
+3945,2025-02-22,TrailRunner Logistics,184284228,37.596245,-100.967221,Returned,3,False,North America
+3291,2025-02-23,GlacierLine Freight,556676636,38.938123,-113.718793,Delivered,13,True,North America
+3836,2025-02-24,SnowWing Delivery,330815932,57.475482,25.862165,Delayed,5,False,Europe
+3582,2025-02-25,SnowWing Delivery,810561414,32.558713,-71.001901,Returned,4,False,North America
+3918,2025-02-26,TrailRunner Logistics,672910772,56.803468,-7.315944,Delivered,13,True,Europe
+3054,2025-02-27,NorthPeak Express,507727676,30.209763,110.452254,Returned,13,True,Asia
+3750,2025-02-28,GlacierLine Freight,991326608,-10.390677,-49.57374,In Transit,7,False,South America
+3419,2025-03-01,SummitCargo Transport,766251915,47.999611,24.252515,Returned,3,False,Europe
+3385,2025-03-02,SummitCargo Transport,553134890,12.130152,-58.497819,Delayed,7,False,South America
+3806,2025-03-03,NorthPeak Express,517321039,54.847042,0.811998,Delivered,2,False,Europe
+3483,2025-03-04,GlacierLine Freight,554165584,17.648296,139.949644,Returned,12,True,Asia
+3267,2025-03-05,SummitCargo Transport,405240053,-21.519455,-40.004229,Delayed,13,True,South America
+3377,2025-03-06,GlacierLine Freight,645374461,48.310552,14.461342,Delayed,3,False,Europe
+3369,2025-03-07,SnowWing Delivery,787429815,25.786751,-81.131861,In Transit,9,False,North America
+3887,2025-03-08,SummitCargo Transport,776877006,33.980429,-110.745558,Delivered,11,True,North America
+3512,2025-03-09,GlacierLine Freight,348791257,38.594283,-108.866285,In Transit,14,True,North America
+3479,2025-03-10,NorthPeak Express,490873727,35.616517,-96.504173,Returned,9,False,North America
+3184,2025-03-11,SnowWing Delivery,479939117,48.011542,-103.787051,In Transit,11,True,North America
+3385,2025-03-12,GlacierLine Freight,440417622,-21.829805,-65.861566,Delayed,10,False,South America
+3772,2025-03-13,GlacierLine Freight,379206478,18.463804,66.239732,Delayed,5,False,Asia
+3958,2025-03-14,TrailRunner Logistics,604071025,54.525087,23.930478,In Transit,5,False,Europe
+3033,2025-03-15,SummitCargo Transport,959605313,46.551538,-96.123357,Delayed,7,False,North America
+3664,2025-03-16,GlacierLine Freight,533725876,56.936025,14.315142,Delivered,4,False,Europe
+3379,2025-03-17,TrailRunner Logistics,744122085,56.360979,5.066949,Delayed,6,False,Europe
+3438,2025-03-18,NorthPeak Express,743983065,29.820448,89.718714,Delayed,2,False,Asia
+3913,2025-03-19,TrailRunner Logistics,870544464,36.459736,-92.849665,In Transit,8,False,North America
+3669,2025-03-20,NorthPeak Express,838322323,15.596278,84.12363,Delayed,5,False,Asia
+3385,2025-03-21,TrailRunner Logistics,941063223,-21.943689,-48.516723,Delayed,14,True,South America
+3302,2025-03-22,NorthPeak Express,634089659,40.498874,118.654289,Delayed,11,True,Asia
+3629,2025-03-23,SnowWing Delivery,726872687,37.479369,-87.234397,Delayed,8,False,North America
+3359,2025-03-24,NorthPeak Express,326872345,28.465069,66.617487,Delayed,1,False,Asia
+3691,2025-03-25,SummitCargo Transport,554072225,47.986182,126.018755,In Transit,2,False,Asia
+3471,2025-03-26,SummitCargo Transport,551915602,39.399736,-118.859729,Delayed,3,False,North America
+3751,2025-03-27,SummitCargo Transport,444891281,29.69894,-121.565012,Delivered,1,False,North America
+3147,2025-03-28,SummitCargo Transport,277931336,32.081981,-88.060888,Returned,8,False,North America
+3088,2025-03-29,SummitCargo Transport,861469967,26.092359,130.254134,Delayed,13,True,Asia
+3875,2025-03-30,TrailRunner Logistics,852160445,-35.671263,-54.933814,Returned,6,False,South America
+3457,2025-03-31,GlacierLine Freight,378145026,-47.069209,-74.895361,In Transit,10,False,South America
+3154,2025-04-01,SnowWing Delivery,198438635,34.789612,103.04287,In Transit,5,False,Asia
+3877,2025-04-02,SnowWing Delivery,165527602,36.320617,-111.478122,Delivered,7,False,North America
+3233,2025-04-03,SummitCargo Transport,627283690,4.157065,-70.404132,Delivered,7,False,South America
+3163,2025-04-04,SnowWing Delivery,761861060,45.36236,6.627859,In Transit,4,False,Europe
+3641,2025-04-05,SnowWing Delivery,789896904,22.033863,79.627883,Returned,10,False,Asia
+3716,2025-04-06,SnowWing Delivery,370264479,42.453204,131.986529,Returned,1,False,Asia
+3148,2025-04-07,NorthPeak Express,114280253,49.697307,-3.327814,In Transit,6,False,Europe
+3834,2025-04-08,TrailRunner Logistics,239136070,20.135173,120.47124,Delayed,2,False,Asia
+3179,2025-04-09,NorthPeak Express,184771970,45.365338,-106.424011,Delivered,11,True,North America
+3320,2025-04-10,TrailRunner Logistics,674573791,-47.578403,-37.719467,Delivered,10,False,South America
+3616,2025-04-11,TrailRunner Logistics,584890166,59.946517,-8.96918,Delayed,9,False,Europe
+3010,2025-04-12,NorthPeak Express,446026559,36.509525,-85.280932,Delayed,2,False,North America
+3852,2025-04-13,NorthPeak Express,522678397,52.709265,-2.957383,Returned,6,False,Europe
+3991,2025-04-14,NorthPeak Express,122558572,50.536394,-2.432059,Delivered,4,False,Europe
+3456,2025-04-15,SummitCargo Transport,780655030,52.260794,13.783471,In Transit,3,False,Europe
+3591,2025-04-16,SummitCargo Transport,656986352,32.534259,-101.272271,Delivered,4,False,North America
+3592,2025-04-17,SnowWing Delivery,862020392,46.069269,-84.422708,In Transit,1,False,North America
+3218,2025-04-18,SummitCargo Transport,247243052,23.012701,81.229347,Returned,6,False,Asia
+3728,2025-04-19,TrailRunner Logistics,707517530,-24.15023,-41.558593,Returned,2,False,South America
+3268,2025-04-20,GlacierLine Freight,402674825,54.415671,4.267159,Returned,6,False,Europe
+3391,2025-04-21,NorthPeak Express,900270056,42.578317,-114.590182,Delivered,1,False,North America
+3340,2025-04-22,SnowWing Delivery,955982249,45.650187,-7.133024,Delivered,11,True,Europe
+3285,2025-04-23,SnowWing Delivery,625395155,-44.954132,-43.8566,Delayed,7,False,South America
+3792,2025-04-24,SummitCargo Transport,468433450,33.132979,-92.043924,In Transit,4,False,North America
+3759,2025-04-25,SnowWing Delivery,449877774,-47.659853,-50.085568,In Transit,2,False,South America
+3322,2025-04-26,SnowWing Delivery,821508843,19.624171,113.231569,Delivered,1,False,Asia
+3763,2025-04-27,SummitCargo Transport,403437099,25.340977,-117.400301,In Transit,12,True,North America
+3073,2025-04-28,SummitCargo Transport,444716975,55.453903,15.117827,Delivered,7,False,Europe
+3096,2025-04-29,TrailRunner Logistics,216177002,0.128419,-61.818239,Returned,3,False,South America
+3649,2025-04-30,SnowWing Delivery,892807313,29.183944,-97.031012,In Transit,8,False,North America
+3469,2025-05-01,SummitCargo Transport,665524209,34.102856,-92.2874,Returned,4,False,North America
+3615,2025-05-02,SummitCargo Transport,851679214,43.623012,-85.104591,In Transit,11,True,North America
+3675,2025-05-03,GlacierLine Freight,923501237,58.348827,3.926811,Delivered,3,False,Europe
+3743,2025-05-04,SummitCargo Transport,393401678,48.920047,28.25983,Delayed,8,False,Europe
+3720,2025-05-05,TrailRunner Logistics,708208895,-0.45147,-77.934611,Delivered,12,True,South America
+3241,2025-05-06,SummitCargo Transport,697666065,29.276649,-99.794866,Returned,4,False,North America
+3847,2025-05-07,NorthPeak Express,394964404,44.445305,89.894088,In Transit,12,True,Asia
+3352,2025-05-08,TrailRunner Logistics,857719885,40.038124,124.417393,Delayed,3,False,Asia
+3474,2025-05-09,NorthPeak Express,199805092,13.991812,-39.775994,In Transit,7,False,South America
+3136,2025-05-10,TrailRunner Logistics,434406649,50.652374,10.295186,Delivered,1,False,Europe
+3097,2025-05-11,SummitCargo Transport,164640582,-5.533361,-61.099894,In Transit,12,True,South America
+3083,2025-05-12,SnowWing Delivery,499839838,27.593105,69.534052,Delivered,10,False,Asia
+3832,2025-05-13,SnowWing Delivery,693129245,21.247144,89.173252,Delayed,4,False,Asia
+3679,2025-05-14,NorthPeak Express,576483369,29.204929,-114.300535,Returned,8,False,North America
+3926,2025-05-15,GlacierLine Freight,639887108,52.144593,72.4791,Delivered,12,True,Asia
+3282,2025-05-16,SnowWing Delivery,932987817,46.792228,20.535419,Delayed,3,False,Europe
+3281,2025-05-17,NorthPeak Express,962564124,58.707262,-3.524506,In Transit,7,False,Europe
+3027,2025-05-18,TrailRunner Logistics,761279161,43.29901,149.470108,Delayed,2,False,Asia
+3881,2025-05-19,SnowWing Delivery,224658800,26.018072,78.688655,Returned,8,False,Asia
+3177,2025-05-20,SummitCargo Transport,995277465,45.968287,63.090678,In Transit,6,False,Asia
+3208,2025-05-21,SummitCargo Transport,905999050,49.034938,22.095535,Delivered,7,False,Europe
+3413,2025-05-22,NorthPeak Express,306867482,53.919729,4.24272,In Transit,4,False,Europe
+3845,2025-05-23,NorthPeak Express,826609415,50.160025,8.038503,In Transit,1,False,Europe
+3173,2025-05-24,SnowWing Delivery,948936358,50.458529,11.705651,Returned,4,False,Europe
+3310,2025-05-25,SnowWing Delivery,773939299,4.384937,-47.202669,In Transit,12,True,South America
+3419,2025-05-26,SummitCargo Transport,832075525,55.301527,5.022997,Delayed,13,True,Europe
+3227,2025-05-27,TrailRunner Logistics,219728711,47.816735,-8.73863,In Transit,2,False,Europe
+3464,2025-05-28,GlacierLine Freight,533095141,-37.659314,-61.281069,Delivered,13,True,South America
+3288,2025-05-29,GlacierLine Freight,442102907,-42.19306,-54.78125,In Transit,13,True,South America
+3433,2025-05-30,SnowWing Delivery,152405819,28.896606,-113.695632,Delivered,6,False,North America
+3871,2025-05-31,GlacierLine Freight,984420490,35.639237,-81.485195,Delivered,4,False,North America
+3105,2025-06-01,GlacierLine Freight,699301219,46.5185,22.002691,Delayed,9,False,Europe
+3028,2025-06-02,TrailRunner Logistics,556696637,40.450547,138.467609,In Transit,5,False,Asia
+3902,2025-06-03,TrailRunner Logistics,542209372,36.210369,80.967473,Returned,4,False,Asia
+3700,2025-06-04,NorthPeak Express,325295067,25.611974,-115.020497,Delivered,8,False,North America
+3732,2025-06-05,NorthPeak Express,182010084,0.27782,-59.699173,In Transit,10,False,South America
+3761,2025-06-06,TrailRunner Logistics,536099764,58.881805,9.964806,In Transit,8,False,Europe
+3566,2025-06-07,SnowWing Delivery,861232209,42.335636,-98.795579,Returned,3,False,North America
+3233,2025-06-08,SummitCargo Transport,783181907,37.454455,77.905436,Returned,6,False,Asia
+3355,2025-06-09,TrailRunner Logistics,463695329,51.890316,8.387729,Delivered,5,False,Europe
+3531,2025-06-10,SnowWing Delivery,443721959,38.838188,124.942529,Delivered,3,False,Asia
+3239,2025-06-11,TrailRunner Logistics,370938062,-8.671391,-36.937543,Delayed,14,True,South America
+3674,2025-06-12,NorthPeak Express,102434184,33.040797,-79.450533,In Transit,2,False,North America
+3627,2025-06-13,SnowWing Delivery,104472756,25.118524,-113.138232,Delayed,10,False,North America
+3576,2025-06-14,TrailRunner Logistics,692620882,1.186603,-79.549326,Delayed,2,False,South America
+3119,2025-06-15,TrailRunner Logistics,797524123,11.888331,104.200652,Delivered,3,False,Asia
+3321,2025-06-16,SnowWing Delivery,305566955,-12.713951,-74.424101,In Transit,5,False,South America
+3235,2025-06-17,TrailRunner Logistics,516545060,-26.224131,-53.817849,Delayed,9,False,South America
+3698,2025-06-18,NorthPeak Express,412103754,42.587429,133.865086,Delivered,2,False,Asia
+3330,2025-06-19,SummitCargo Transport,968073425,1.389242,-49.222739,In Transit,7,False,South America
+3278,2025-06-20,SummitCargo Transport,266201772,6.094507,-72.089629,Returned,14,True,South America
+3622,2025-06-21,SummitCargo Transport,149188829,35.039991,-118.594386,Delivered,2,False,North America
+3030,2025-06-22,TrailRunner Logistics,438574366,42.448039,74.858974,Delivered,7,False,Asia
+3483,2025-06-23,SummitCargo Transport,876072088,45.844435,83.91916,Delayed,5,False,Asia
+3793,2025-06-24,NorthPeak Express,101051431,33.667031,78.664982,Delivered,14,True,Asia
+3249,2025-06-25,SummitCargo Transport,353368606,52.300142,122.505503,Delivered,1,False,Asia
+3655,2025-06-26,TrailRunner Logistics,858168655,45.598097,135.174714,Returned,8,False,Asia
+3015,2025-06-27,TrailRunner Logistics,615660057,37.771261,-114.636608,In Transit,1,False,North America
+3138,2025-06-28,TrailRunner Logistics,156440093,30.197911,-124.466947,In Transit,5,False,North America
+3059,2025-06-29,TrailRunner Logistics,192126708,21.54293,100.948076,Delivered,14,True,Asia
+3576,2025-06-30,SnowWing Delivery,638347367,10.856849,142.981059,In Transit,6,False,Asia
+3314,2025-07-01,GlacierLine Freight,254302398,26.349544,-102.4556,Delayed,6,False,North America
+3676,2025-07-02,TrailRunner Logistics,645913759,54.271555,130.090939,In Transit,12,True,Asia
+3134,2025-07-03,NorthPeak Express,555517411,46.916939,20.981786,Delivered,13,True,Europe
+3717,2025-07-04,TrailRunner Logistics,250184626,3.836149,-60.25707,In Transit,3,False,South America
+3207,2025-07-05,NorthPeak Express,550994927,30.838232,142.488667,Delivered,1,False,Asia
+3787,2025-07-06,NorthPeak Express,601816119,53.722017,28.032671,Delayed,2,False,Europe
+3690,2025-07-07,SummitCargo Transport,380145609,40.375617,-120.914516,Returned,2,False,North America
+3768,2025-07-08,GlacierLine Freight,424419301,49.8582,19.752564,In Transit,3,False,Europe
+3563,2025-07-09,GlacierLine Freight,825998462,38.529798,-85.582327,Delivered,10,False,North America
+3833,2025-07-10,SummitCargo Transport,997198632,45.052366,104.425897,Delivered,11,True,Asia
+3950,2025-07-11,SummitCargo Transport,109591697,47.071532,22.689937,In Transit,11,True,Europe
+3508,2025-07-12,NorthPeak Express,754659111,-7.061151,-77.143786,Delayed,5,False,South America
+3935,2025-07-13,GlacierLine Freight,201354475,42.774057,98.868475,Delayed,13,True,Asia
+3472,2025-07-14,NorthPeak Express,478268734,23.085295,113.963567,Returned,2,False,Asia
+3556,2025-07-15,SnowWing Delivery,957958923,25.025133,82.806542,Delayed,11,True,Asia
+3347,2025-07-16,TrailRunner Logistics,109146403,-39.616588,-45.89576,Delivered,4,False,South America
+3459,2025-07-17,TrailRunner Logistics,642037569,6.730637,-40.984601,In Transit,12,True,South America
+3554,2025-07-18,GlacierLine Freight,959365650,41.64494,-93.272094,Returned,8,False,North America
+3578,2025-07-19,NorthPeak Express,441151049,45.815017,21.728079,In Transit,10,False,Europe
+3213,2025-07-20,TrailRunner Logistics,996759342,40.559464,-108.14198,Returned,5,False,North America
+3082,2025-07-21,NorthPeak Express,250048671,54.411019,64.543801,In Transit,6,False,Asia
+3393,2025-07-22,SnowWing Delivery,928909562,-48.437556,-48.383766,Delayed,10,False,South America
+3278,2025-07-23,SummitCargo Transport,991008666,53.247142,109.748496,In Transit,14,True,Asia
+3404,2025-07-24,GlacierLine Freight,207703622,-40.900732,-51.098571,In Transit,7,False,South America
+3022,2025-07-25,SnowWing Delivery,867233960,26.682797,106.390172,Delayed,8,False,Asia
+3519,2025-07-26,TrailRunner Logistics,394986380,50.41813,25.983956,Delayed,8,False,Europe
+3427,2025-07-27,NorthPeak Express,178700458,-40.370226,-76.862467,Delivered,6,False,South America
+3559,2025-07-28,SnowWing Delivery,521588801,48.1297,140.606484,Returned,8,False,Asia
+3462,2025-07-29,SnowWing Delivery,978941684,48.800135,-2.103594,Delivered,11,True,Europe
+3752,2025-07-30,GlacierLine Freight,212828469,-33.874266,-79.898045,In Transit,11,True,South America
+3111,2025-07-31,SnowWing Delivery,701284873,37.742425,124.676587,Returned,3,False,Asia
+3311,2025-08-01,GlacierLine Freight,681971387,50.370684,25.446649,Returned,13,True,Europe
+3397,2025-08-02,GlacierLine Freight,334469709,49.477498,-86.82147,In Transit,8,False,North America
+3733,2025-08-03,NorthPeak Express,876174231,-41.531857,-60.661972,In Transit,7,False,South America
+3004,2025-08-04,GlacierLine Freight,541650355,57.291783,28.847233,Delivered,3,False,Europe
+3643,2025-08-05,SummitCargo Transport,472310005,51.744107,97.680949,Returned,7,False,Asia
+3326,2025-08-06,SummitCargo Transport,546805426,48.888746,5.389435,In Transit,11,True,Europe
+3183,2025-08-07,SummitCargo Transport,505132447,56.304889,21.512115,Delivered,11,True,Europe
+3131,2025-08-08,SnowWing Delivery,861450115,45.746478,10.908385,Returned,13,True,Europe
+3071,2025-08-09,SummitCargo Transport,257656661,10.062724,71.057895,In Transit,13,True,Asia
+3559,2025-08-10,TrailRunner Logistics,235869999,-40.967314,-35.523266,Delayed,1,False,South America
+3482,2025-08-11,SummitCargo Transport,435353083,56.763922,-2.144026,In Transit,13,True,Europe
+3408,2025-08-12,SummitCargo Transport,669428553,2.022571,-54.017298,Delivered,13,True,South America
+3978,2025-08-13,SnowWing Delivery,942871412,45.797115,78.674773,Delivered,3,False,Asia
+3456,2025-08-14,SnowWing Delivery,299949550,21.205574,89.676025,Delayed,4,False,Asia
+3152,2025-08-15,TrailRunner Logistics,518112689,7.139851,-69.467282,Returned,9,False,South America
+3966,2025-08-16,TrailRunner Logistics,744386135,58.244609,29.681003,Returned,7,False,Europe
+3828,2025-08-17,SnowWing Delivery,805545428,-12.206073,-73.188729,Returned,13,True,South America
+3846,2025-08-18,GlacierLine Freight,970290766,38.86821,-95.500375,In Transit,7,False,North America
+3505,2025-08-19,SummitCargo Transport,431741200,-39.113575,-39.278273,Delayed,9,False,South America
+3772,2025-08-20,NorthPeak Express,676070566,32.815372,123.032375,Delivered,12,True,Asia
+3075,2025-08-21,NorthPeak Express,794170953,36.456368,140.301011,Delayed,1,False,Asia
+3956,2025-08-22,NorthPeak Express,698765331,56.102355,11.303792,Returned,11,True,Europe
+3158,2025-08-23,SummitCargo Transport,795777128,16.571069,102.481477,Delivered,10,False,Asia
+3761,2025-08-24,TrailRunner Logistics,204838971,5.992317,-57.530651,In Transit,2,False,South America
+3955,2025-08-25,SummitCargo Transport,196850396,30.829907,-98.054285,Delivered,2,False,North America
+3607,2025-08-26,TrailRunner Logistics,746110361,42.683922,98.030376,Delivered,13,True,Asia
+3912,2025-08-27,NorthPeak Express,314739029,15.172356,103.283468,In Transit,1,False,Asia
+3706,2025-08-28,GlacierLine Freight,128792817,-5.9848,-53.064247,Delayed,2,False,South America
+3458,2025-08-29,GlacierLine Freight,324907086,-54.987267,-73.576869,Delivered,2,False,South America
+3331,2025-08-30,GlacierLine Freight,549140180,-34.078528,-63.160003,Delayed,3,False,South America
+3692,2025-08-31,SummitCargo Transport,948957510,42.272013,79.550746,Delivered,12,True,Asia
+3017,2025-09-01,SnowWing Delivery,743639404,52.531448,64.615722,Returned,1,False,Asia
+3781,2025-09-02,SummitCargo Transport,633146286,46.924487,23.126876,Returned,11,True,Europe
+3215,2025-09-03,GlacierLine Freight,687444973,32.690711,-78.231344,Delayed,7,False,North America
+3655,2025-09-04,SnowWing Delivery,369464720,40.882642,-122.66984,Returned,6,False,North America
+3851,2025-09-05,TrailRunner Logistics,495500137,10.042057,-50.115688,Delivered,6,False,South America
+3494,2025-09-06,NorthPeak Express,196025152,48.586943,-83.621662,In Transit,3,False,North America
+3606,2025-09-07,SummitCargo Transport,230488464,48.370622,-76.961006,Returned,9,False,North America
+3177,2025-09-08,GlacierLine Freight,440836853,55.796142,-0.958143,In Transit,8,False,Europe
+3402,2025-09-09,GlacierLine Freight,456532399,52.034685,94.298455,Returned,5,False,Asia
+3682,2025-09-10,SummitCargo Transport,466091680,30.542082,113.08011,In Transit,14,True,Asia
+3784,2025-09-11,NorthPeak Express,339938238,39.35927,-79.462488,Delayed,1,False,North America
+3925,2025-09-12,SnowWing Delivery,466619961,0.825188,-67.296802,In Transit,5,False,South America
+3454,2025-09-13,GlacierLine Freight,807894902,-19.440481,-40.949235,Returned,13,True,South America
+3455,2025-09-14,SummitCargo Transport,764144305,-46.288731,-48.815052,Delivered,3,False,South America
+3443,2025-09-15,NorthPeak Express,998240614,38.571524,-119.101042,Delayed,9,False,North America
+3195,2025-09-16,SummitCargo Transport,502831078,21.32886,96.091274,Delivered,3,False,Asia
+3819,2025-09-17,SummitCargo Transport,600063907,26.447112,-117.180109,Returned,12,True,North America
+3380,2025-09-18,SnowWing Delivery,204679592,48.551594,9.178066,Delayed,4,False,Europe
+3445,2025-09-19,TrailRunner Logistics,505625431,55.133151,10.050337,Returned,4,False,Europe
+3981,2025-09-20,SnowWing Delivery,126400743,4.91361,-37.031623,Returned,3,False,South America
+3751,2025-09-21,NorthPeak Express,140530128,40.2178,72.083636,Delivered,10,False,Asia
+3863,2025-09-22,SummitCargo Transport,255661081,-17.159009,-46.794504,Delivered,14,True,South America
+3965,2025-09-23,SnowWing Delivery,809036758,26.702011,-78.374072,Returned,4,False,North America
+3251,2025-09-24,GlacierLine Freight,453886185,-49.961437,-49.772519,Returned,9,False,South America
+3900,2025-09-25,SummitCargo Transport,564912169,39.431706,132.768724,In Transit,12,True,Asia
+3557,2025-09-26,SnowWing Delivery,836937891,32.091857,95.105046,Returned,5,False,Asia
+3447,2025-09-27,GlacierLine Freight,237798871,47.066428,61.308522,Returned,6,False,Asia
+3648,2025-09-28,SnowWing Delivery,551389841,-2.779081,-64.232109,Delivered,5,False,South America
+3813,2025-09-29,GlacierLine Freight,926526927,-20.856243,-45.988133,Returned,1,False,South America
+3726,2025-09-30,SnowWing Delivery,816408880,-10.394183,-77.560077,Delayed,9,False,South America
+3563,2025-10-01,GlacierLine Freight,733698365,33.534074,-116.444261,Delayed,2,False,North America
+3913,2025-10-02,SnowWing Delivery,905020895,42.565616,-107.541049,Returned,5,False,North America
+3338,2025-10-03,SnowWing Delivery,277914011,40.352459,-76.365791,Delivered,3,False,North America
+3584,2025-10-04,GlacierLine Freight,447025215,17.436062,130.751741,Returned,13,True,Asia
+3692,2025-10-05,SummitCargo Transport,923868216,42.055928,118.606327,Delivered,8,False,Asia
+3253,2025-10-06,TrailRunner Logistics,533927864,16.064383,105.828029,In Transit,14,True,Asia
+3326,2025-10-07,SnowWing Delivery,872158599,31.10213,98.459294,Returned,8,False,Asia
+3598,2025-10-08,SummitCargo Transport,162091409,21.130252,80.929354,Delivered,7,False,Asia
+3724,2025-10-09,TrailRunner Logistics,323492478,29.649129,122.263756,In Transit,9,False,Asia
+3993,2025-10-10,NorthPeak Express,675723217,40.490197,139.760496,Returned,10,False,Asia
+3526,2025-10-11,NorthPeak Express,348492854,-21.085885,-71.085632,Returned,1,False,South America
+3253,2025-10-12,TrailRunner Logistics,648151710,32.056048,-84.373829,Returned,13,True,North America
+3163,2025-10-13,TrailRunner Logistics,691533592,51.357772,61.698282,Delivered,3,False,Asia
+3291,2025-10-14,NorthPeak Express,843375919,49.067134,2.675293,Delivered,4,False,Europe
+3128,2025-10-15,SnowWing Delivery,130606148,46.901597,85.910129,In Transit,7,False,Asia
+3170,2025-10-16,SummitCargo Transport,121057943,-18.851371,-63.148276,In Transit,10,False,South America
+3015,2025-10-17,GlacierLine Freight,803171425,-5.962346,-44.999413,Delayed,13,True,South America
+3568,2025-10-18,NorthPeak Express,414785356,54.342043,65.342786,Delivered,5,False,Asia
+3632,2025-10-19,SummitCargo Transport,412166695,49.427012,126.398468,In Transit,13,True,Asia
+3854,2025-10-20,SnowWing Delivery,288041724,31.328013,-81.037832,Delivered,5,False,North America
+3024,2025-10-21,SnowWing Delivery,746088593,-43.476567,-52.292053,In Transit,9,False,South America
+3829,2025-10-22,SummitCargo Transport,760651295,54.814252,9.437228,Delivered,11,True,Europe
+3456,2025-10-23,SummitCargo Transport,785311876,39.678156,-83.842264,Delivered,4,False,North America
+3299,2025-10-24,SnowWing Delivery,900269491,7.041572,-68.889929,Delayed,4,False,South America
+3978,2025-10-25,GlacierLine Freight,735779325,52.35884,-2.207796,In Transit,5,False,Europe
+3843,2025-10-26,SummitCargo Transport,191225368,52.304913,0.128325,Delayed,11,True,Europe
+3112,2025-10-27,SnowWing Delivery,490880692,58.501829,22.671804,In Transit,11,True,Europe
+3769,2025-10-28,TrailRunner Logistics,201122834,32.767998,-114.222861,Delivered,1,False,North America
+3155,2025-10-29,SummitCargo Transport,576534326,47.014881,4.341753,Delivered,10,False,Europe
+3111,2025-10-30,GlacierLine Freight,460545835,37.179566,120.148785,Delivered,5,False,Asia
+3135,2025-10-31,SummitCargo Transport,992225680,-53.872982,-72.893835,Delivered,14,True,South America
+3377,2025-11-01,SnowWing Delivery,182841224,35.821067,111.34323,In Transit,7,False,Asia
+3325,2025-11-02,NorthPeak Express,703664965,48.019885,93.746047,Delayed,2,False,Asia
+3291,2025-11-03,SnowWing Delivery,133919471,-54.570287,-67.306288,In Transit,9,False,South America
+3701,2025-11-04,TrailRunner Logistics,742033884,33.074207,-98.076344,In Transit,10,False,North America
+3247,2025-11-05,NorthPeak Express,732211550,-22.291454,-50.64803,Delivered,8,False,South America
+3131,2025-11-06,SnowWing Delivery,302299148,41.186936,-110.967689,Returned,9,False,North America
+3534,2025-11-07,SummitCargo Transport,224840325,33.778015,-81.225161,Delayed,4,False,North America
+3702,2025-11-08,TrailRunner Logistics,221393889,35.885393,-98.980115,In Transit,10,False,North America
+3243,2025-11-09,GlacierLine Freight,442377318,39.16783,102.872599,In Transit,2,False,Asia
+3411,2025-11-10,GlacierLine Freight,222083971,11.840416,73.926652,Returned,10,False,Asia
+3867,2025-11-11,SnowWing Delivery,421288951,57.370945,-7.490912,Delayed,5,False,Europe
+3482,2025-11-12,SnowWing Delivery,672114404,51.364136,29.103193,Delayed,3,False,Europe
+3467,2025-11-13,SummitCargo Transport,420189384,26.323265,85.28466,Delivered,6,False,Asia
+3436,2025-11-14,SnowWing Delivery,871891449,39.784377,-77.875924,Delayed,12,True,North America
+3816,2025-11-15,NorthPeak Express,283855555,30.233544,-90.980561,Returned,8,False,North America
+3210,2025-11-16,NorthPeak Express,349611277,37.043381,-80.466722,Delayed,3,False,North America
+3851,2025-11-17,SnowWing Delivery,250020905,51.067172,-0.772924,Delivered,13,True,Europe
+3818,2025-11-18,TrailRunner Logistics,729935776,-39.014356,-60.192618,Returned,9,False,South America
+3902,2025-11-19,NorthPeak Express,985639712,55.586084,-6.838774,In Transit,1,False,Europe
+3587,2025-11-20,TrailRunner Logistics,796972096,-27.973376,-40.112454,Returned,1,False,South America
+3308,2025-11-21,NorthPeak Express,444456159,59.911079,4.711292,In Transit,9,False,Europe
+3797,2025-11-22,SnowWing Delivery,123285450,33.160927,-78.391178,Returned,6,False,North America
+3197,2025-11-23,NorthPeak Express,954224808,45.889348,142.76897,Delivered,14,True,Asia
+3729,2025-11-24,SummitCargo Transport,132653548,46.375976,81.983512,Delivered,5,False,Asia
+3121,2025-11-25,SummitCargo Transport,740408171,47.244204,3.452037,Returned,8,False,Europe
+3998,2025-11-26,TrailRunner Logistics,850471650,48.299926,28.034883,Returned,12,True,Europe
+3120,2025-11-27,TrailRunner Logistics,805164200,-11.755055,-60.185327,Delivered,6,False,South America
+3369,2025-11-28,GlacierLine Freight,717715991,52.72125,-4.283062,In Transit,11,True,Europe
+3984,2025-11-29,SnowWing Delivery,311347858,45.318803,-5.074232,Delivered,4,False,Europe
+3861,2025-11-30,SnowWing Delivery,183854088,-37.642265,-38.720587,Delivered,6,False,South America
+3975,2025-12-01,TrailRunner Logistics,912320417,11.384372,-45.888209,Delivered,3,False,South America
+3130,2025-12-02,GlacierLine Freight,673928097,-42.593392,-41.422119,In Transit,9,False,South America
+3722,2025-12-03,GlacierLine Freight,402343994,26.613244,135.849747,In Transit,11,True,Asia
+3843,2025-12-04,SnowWing Delivery,312842946,58.314217,12.27613,Delayed,11,True,Europe
+3723,2025-12-05,NorthPeak Express,654139843,-47.892289,-63.12374,In Transit,1,False,South America
+3171,2025-12-06,NorthPeak Express,564873854,39.061869,-117.678275,Delivered,10,False,North America
+3462,2025-12-07,GlacierLine Freight,302765929,39.473922,91.033523,Delayed,6,False,Asia
+3358,2025-12-08,NorthPeak Express,947735237,46.940609,-8.878894,Returned,14,True,Europe
+3901,2025-12-09,TrailRunner Logistics,352385921,45.002012,-3.441315,Delivered,1,False,Europe
+3870,2025-12-10,SummitCargo Transport,392261329,-2.900022,-47.586116,Delayed,2,False,South America
+3535,2025-12-11,SummitCargo Transport,693021167,32.783886,-108.585423,In Transit,1,False,North America
+3070,2025-12-12,NorthPeak Express,138126912,31.338004,-78.475551,Delayed,2,False,North America
+3115,2025-12-13,GlacierLine Freight,555110060,-20.739652,-47.65693,Delayed,13,True,South America
+3582,2025-12-14,SnowWing Delivery,736570663,47.025143,-123.852502,Delayed,1,False,North America
+3805,2025-12-15,SnowWing Delivery,343869311,50.146586,92.211813,Returned,6,False,Asia
+3800,2025-12-16,TrailRunner Logistics,792062015,50.840462,21.147526,In Transit,7,False,Europe
+3683,2025-12-17,TrailRunner Logistics,386297200,45.523384,-122.999789,Delayed,12,True,North America
+3299,2025-12-18,SnowWing Delivery,621186617,45.187617,-75.551696,Returned,11,True,North America
+3815,2025-12-19,NorthPeak Express,364595817,-40.713328,-72.960229,Returned,3,False,South America
+3078,2025-12-20,GlacierLine Freight,469213581,25.818465,127.207782,Delayed,10,False,Asia
+3434,2025-12-21,SummitCargo Transport,998580812,4.083659,-40.097588,Delivered,1,False,South America
+3272,2025-12-22,SnowWing Delivery,798380776,-45.611121,-61.216623,Delivered,9,False,South America
+3319,2025-12-23,TrailRunner Logistics,270708000,31.569633,-115.577387,In Transit,3,False,North America
+3008,2025-12-24,SnowWing Delivery,844787795,35.084773,97.257203,In Transit,4,False,Asia
+3115,2025-12-25,NorthPeak Express,137122599,13.414619,77.513901,Delayed,8,False,Asia
+3989,2025-12-26,TrailRunner Logistics,113242338,13.915782,82.042539,In Transit,2,False,Asia
+3567,2025-12-27,SnowWing Delivery,668059125,35.936606,-113.526053,Delivered,11,True,North America
+3504,2025-12-28,NorthPeak Express,424269131,-11.524319,-51.14878,Returned,4,False,South America
+3140,2025-12-29,SummitCargo Transport,828410266,54.078693,13.448485,Delayed,8,False,Europe
+3497,2025-12-30,TrailRunner Logistics,789046311,-44.138,-67.288894,In Transit,11,True,South America
+3869,2025-12-31,SummitCargo Transport,143967289,-4.726874,-55.799991,In Transit,2,False,South America
+3015,2026-01-01,NorthPeak Express,841640253,28.229282,-115.375226,Delivered,14,True,North America
+3086,2026-01-02,SnowWing Delivery,439553517,49.325371,111.860709,In Transit,3,False,Asia
+3157,2026-01-03,SummitCargo Transport,978162708,38.387037,-70.152963,Delivered,3,False,North America
+3180,2026-01-04,SummitCargo Transport,747747993,51.482765,14.696134,In Transit,3,False,Europe
+3690,2026-01-05,SnowWing Delivery,856194062,30.072592,-108.670993,In Transit,2,False,North America
+3254,2026-01-06,GlacierLine Freight,166918589,59.286653,18.258906,Returned,3,False,Europe
+3009,2026-01-07,NorthPeak Express,104709785,54.659943,133.628145,Delayed,7,False,Asia
+3747,2026-01-08,TrailRunner Logistics,509397856,35.637142,-110.928891,In Transit,9,False,North America
+3850,2026-01-09,GlacierLine Freight,739554112,-24.588679,-38.595463,Returned,2,False,South America
+3102,2026-01-10,SummitCargo Transport,762289188,34.59703,118.310166,Returned,9,False,Asia
+3739,2026-01-11,NorthPeak Express,211481750,47.400917,-121.695154,Returned,3,False,North America
+3347,2026-01-12,TrailRunner Logistics,849526255,33.554659,-79.329457,In Transit,9,False,North America
+3732,2026-01-13,TrailRunner Logistics,562481174,47.675326,0.643467,In Transit,10,False,Europe
+3901,2026-01-14,SnowWing Delivery,988372461,48.637719,106.149312,Delivered,12,True,Asia
+3198,2026-01-15,SnowWing Delivery,866721739,27.000284,-84.394198,Returned,9,False,North America
+3562,2026-01-16,SummitCargo Transport,884650183,47.463747,102.17987,Delivered,12,True,Asia
+3085,2026-01-17,TrailRunner Logistics,804394419,16.229266,82.691782,In Transit,8,False,Asia
+3756,2026-01-18,SnowWing Delivery,582288477,47.503501,66.48141,Delayed,3,False,Asia
+3177,2026-01-19,SnowWing Delivery,999144205,43.686498,77.441689,Delayed,7,False,Asia
+3369,2026-01-20,GlacierLine Freight,993045882,20.756845,132.947395,Returned,10,False,Asia
+3475,2026-01-21,GlacierLine Freight,317412617,49.205976,-94.527446,In Transit,9,False,North America
+3691,2026-01-22,SummitCargo Transport,715351856,16.261201,93.736485,Delayed,6,False,Asia
+3572,2026-01-23,SnowWing Delivery,155565776,54.568554,12.419592,In Transit,3,False,Europe
+3623,2026-01-24,NorthPeak Express,961340371,32.611207,-84.14086,Delivered,10,False,North America
+3907,2026-01-25,GlacierLine Freight,116096479,44.568836,-122.115678,Delayed,9,False,North America
+3892,2026-01-26,SnowWing Delivery,647781183,22.691426,69.663032,In Transit,6,False,Asia
+3203,2026-01-27,GlacierLine Freight,636968003,-17.246495,-76.721008,Delivered,13,True,South America
+3219,2026-01-28,NorthPeak Express,859293934,-21.174943,-57.495039,In Transit,11,True,South America
+3157,2026-01-29,SummitCargo Transport,797074266,49.698233,15.350343,Delivered,8,False,Europe
+3822,2026-01-30,TrailRunner Logistics,649328339,53.3446,3.239771,Delivered,7,False,Europe
+3532,2026-01-31,TrailRunner Logistics,651305865,53.446525,93.986754,Delayed,6,False,Asia
+3556,2026-02-01,SnowWing Delivery,316444294,51.554068,145.709504,Delivered,4,False,Asia
+3900,2026-02-02,GlacierLine Freight,799470725,-50.259736,-55.205905,Delayed,8,False,South America
+3149,2026-02-03,SnowWing Delivery,295892572,-14.81539,-51.939291,Returned,9,False,South America
+3220,2026-02-04,GlacierLine Freight,696438200,59.375751,-5.45069,In Transit,7,False,Europe
+3723,2026-02-05,NorthPeak Express,265127392,32.070524,-75.442564,Returned,7,False,North America
+3600,2026-02-06,SummitCargo Transport,705592598,42.173778,-96.723763,Delayed,14,True,North America
+3747,2026-02-07,NorthPeak Express,764567909,50.770949,7.606735,Delayed,3,False,Europe
+3009,2026-02-08,SnowWing Delivery,716467219,53.224721,29.436612,Returned,13,True,Europe
+3103,2026-02-09,SnowWing Delivery,536394617,-31.805024,-42.905379,Returned,5,False,South America
+3741,2026-02-10,NorthPeak Express,735750896,-37.100455,-49.995584,Returned,7,False,South America
+3414,2026-02-11,SnowWing Delivery,621703131,37.039929,-91.462153,In Transit,8,False,North America
+3544,2026-02-12,SummitCargo Transport,251646267,48.059701,1.069982,Returned,7,False,Europe
+3882,2026-02-13,GlacierLine Freight,115057319,48.40983,17.035931,Delayed,12,True,Europe
+3606,2026-02-14,GlacierLine Freight,552862847,56.852468,-5.417149,In Transit,2,False,Europe
+3039,2026-02-15,SnowWing Delivery,274872598,-5.834651,-76.14612,Delivered,9,False,South America
+3343,2026-02-16,NorthPeak Express,808053103,45.912364,-111.005616,Delivered,13,True,North America
+3834,2026-02-17,GlacierLine Freight,493171674,30.454151,137.436575,Delivered,1,False,Asia
+3723,2026-02-18,NorthPeak Express,744943297,1.143191,-56.938038,Delivered,11,True,South America
+3770,2026-02-19,SnowWing Delivery,340127475,-1.51478,-42.468374,Delivered,11,True,South America
+3444,2026-02-20,SnowWing Delivery,482015223,32.834704,104.568228,Delivered,5,False,Asia
+3541,2026-02-21,TrailRunner Logistics,478238666,53.622474,7.269664,Delivered,5,False,Europe
+3800,2026-02-22,SnowWing Delivery,225246302,49.371433,16.945237,Returned,11,True,Europe
+3694,2026-02-23,GlacierLine Freight,926171229,59.900485,-1.225991,In Transit,9,False,Europe
+3181,2026-02-24,NorthPeak Express,994393819,4.055857,-58.20942,Returned,2,False,South America
+3212,2026-02-25,SnowWing Delivery,394781747,-34.610644,-64.440995,Delivered,6,False,South America
+3197,2026-02-26,GlacierLine Freight,607673552,51.848712,17.586294,In Transit,8,False,Europe
+3694,2026-02-27,SnowWing Delivery,167596735,-33.753982,-63.199985,Delivered,13,True,South America
+3774,2026-02-28,SummitCargo Transport,271937685,26.642106,-112.254462,Returned,5,False,North America
+3813,2026-03-01,NorthPeak Express,352236257,3.23334,-70.072997,Delayed,9,False,South America
+3017,2026-03-02,NorthPeak Express,546491380,10.029548,88.49478,Delayed,1,False,Asia
+3152,2026-03-03,SnowWing Delivery,144789802,53.052347,11.545217,Delivered,4,False,Europe
+3722,2026-03-04,SummitCargo Transport,260030523,57.214665,29.271598,Delivered,2,False,Europe
+3637,2026-03-05,SnowWing Delivery,563925452,48.111827,13.412196,In Transit,4,False,Europe
+3275,2026-03-06,NorthPeak Express,382701053,12.211378,-52.608005,Delayed,9,False,South America
+3983,2026-03-07,TrailRunner Logistics,152778284,-52.807972,-57.088606,Returned,13,True,South America
+3441,2026-03-08,NorthPeak Express,401319508,-20.830398,-75.617589,Delivered,6,False,South America
+3570,2026-03-09,GlacierLine Freight,356577309,25.943519,125.26779,In Transit,8,False,Asia
+3262,2026-03-10,SnowWing Delivery,899016080,46.321823,-9.125928,Returned,10,False,Europe
+3052,2026-03-11,TrailRunner Logistics,954083430,-10.718396,-59.40728,In Transit,12,True,South America
+3850,2026-03-12,TrailRunner Logistics,323369503,26.12419,-84.426659,In Transit,6,False,North America
+3973,2026-03-13,TrailRunner Logistics,682209347,48.119643,29.938233,Delivered,11,True,Europe
+3848,2026-03-14,GlacierLine Freight,148073318,30.667478,-92.553054,Returned,5,False,North America
+3717,2026-03-15,NorthPeak Express,671157325,39.477038,85.921384,Delayed,2,False,Asia
+3426,2026-03-16,SnowWing Delivery,203660029,11.853744,-35.485019,In Transit,14,True,South America
+3895,2026-03-17,GlacierLine Freight,819845720,16.997713,78.498046,Delayed,7,False,Asia
+3163,2026-03-18,SummitCargo Transport,726013279,58.78433,21.762787,Delayed,1,False,Europe
+3707,2026-03-19,NorthPeak Express,161887565,59.371646,2.771447,Delayed,2,False,Europe
+3219,2026-03-20,TrailRunner Logistics,188642029,38.004894,-79.549966,In Transit,3,False,North America
+3885,2026-03-21,GlacierLine Freight,938044762,23.455954,85.858656,Delayed,7,False,Asia
+3022,2026-03-22,SummitCargo Transport,310431076,33.569415,-104.567196,Returned,13,True,North America
+3686,2026-03-23,SummitCargo Transport,853746594,46.726773,19.194719,Returned,11,True,Europe
+3469,2026-03-24,NorthPeak Express,543653653,27.005161,-109.095575,Returned,9,False,North America
+3063,2026-03-25,GlacierLine Freight,230954774,2.584755,-71.197604,Returned,4,False,South America
+3886,2026-03-26,NorthPeak Express,196413782,8.129134,-45.53303,Returned,7,False,South America
+3992,2026-03-27,NorthPeak Express,732588834,48.343474,6.315288,Delayed,4,False,Europe
+3496,2026-03-28,SummitCargo Transport,789372994,56.168421,2.952951,Returned,11,True,Europe
+3819,2026-03-29,SnowWing Delivery,812047043,7.589932,-79.770812,Delayed,12,True,South America
+3276,2026-03-30,SnowWing Delivery,501466748,54.114334,1.811456,Delivered,11,True,Europe
+3326,2026-03-31,GlacierLine Freight,216390863,-14.150187,-54.449098,In Transit,2,False,South America
+3778,2026-04-01,SummitCargo Transport,345283498,53.96954,25.8423,Delivered,8,False,Europe
+3562,2026-04-02,SnowWing Delivery,348061592,5.538291,-79.027501,Delivered,4,False,South America
+3907,2026-04-03,GlacierLine Freight,121002037,11.558041,-39.837981,Delayed,4,False,South America
+3016,2026-04-04,SnowWing Delivery,387206423,-24.118494,-45.175646,Delayed,4,False,South America
+3412,2026-04-05,TrailRunner Logistics,214793245,29.915046,82.320524,Returned,14,True,Asia
+3237,2026-04-06,GlacierLine Freight,526218395,17.850927,93.01331,Delivered,1,False,Asia
+3190,2026-04-07,SummitCargo Transport,775396738,58.493125,19.922451,Returned,2,False,Europe
+3173,2026-04-08,NorthPeak Express,936703246,55.474491,3.515639,Delayed,1,False,Europe
+3750,2026-04-09,TrailRunner Logistics,790988371,-27.739926,-70.860193,Returned,12,True,South America
+3112,2026-04-10,SnowWing Delivery,492467429,50.320675,23.405477,Delayed,11,True,Europe
+3787,2026-04-11,SummitCargo Transport,387377813,39.647595,-81.705024,Delivered,10,False,North America
+3871,2026-04-12,NorthPeak Express,388022523,-50.869886,-69.789121,Delivered,8,False,South America
+3506,2026-04-13,SummitCargo Transport,560446970,51.511008,9.102195,Returned,1,False,Europe
+3550,2026-04-14,NorthPeak Express,107628814,-24.806635,-62.223449,Delivered,4,False,South America
+3196,2026-04-15,GlacierLine Freight,314326151,13.724898,138.002694,Delivered,8,False,Asia
+3028,2026-04-16,SnowWing Delivery,536350984,39.260569,100.719423,Returned,1,False,Asia
+3963,2026-04-17,TrailRunner Logistics,401128592,26.379503,-103.815017,Returned,4,False,North America
+3717,2026-04-18,SummitCargo Transport,460469806,48.881886,-92.155557,Returned,14,True,North America
+3176,2026-04-19,NorthPeak Express,672927730,57.484553,24.758347,Delayed,10,False,Europe
+3122,2026-04-20,GlacierLine Freight,308074135,-35.674931,-66.534761,Returned,6,False,South America
+3047,2026-04-21,GlacierLine Freight,791743256,49.269382,-81.236435,In Transit,13,True,North America
+3409,2026-04-22,GlacierLine Freight,748969982,45.067631,64.457454,Delayed,7,False,Asia
+3946,2026-04-23,SnowWing Delivery,247057846,-16.243774,-53.33587,Delayed,8,False,South America
+3407,2026-04-24,GlacierLine Freight,377388964,38.15527,-113.359725,Delivered,2,False,North America
+3550,2026-04-25,TrailRunner Logistics,400498082,55.782055,3.037864,Delayed,9,False,Europe
+3547,2026-04-26,NorthPeak Express,909731328,21.694271,94.075391,Delivered,14,True,Asia
+3908,2026-04-27,SummitCargo Transport,546600766,2.632615,-61.383028,Delivered,1,False,South America
+3420,2026-04-28,SnowWing Delivery,712267712,-54.684287,-54.662729,Delayed,10,False,South America
+3782,2026-04-29,SnowWing Delivery,198788420,59.057125,-9.564661,Returned,12,True,Europe
+3585,2026-04-30,SummitCargo Transport,201195173,4.000564,-57.79511,Delayed,5,False,South America
+3937,2026-05-01,SnowWing Delivery,607759659,37.254461,-92.232599,In Transit,3,False,North America
+3503,2026-05-02,NorthPeak Express,274735186,57.06274,19.731486,In Transit,2,False,Europe
+3647,2026-05-03,SummitCargo Transport,116571166,34.344962,-84.03509,Delivered,3,False,North America
+3615,2026-05-04,TrailRunner Logistics,736611577,12.248667,-76.63092,Returned,10,False,South America
+3612,2026-05-05,SnowWing Delivery,127021749,11.798888,116.603123,Delivered,9,False,Asia
+3876,2026-05-06,TrailRunner Logistics,442670321,30.802501,-84.310023,Returned,11,True,North America
+3240,2026-05-07,SummitCargo Transport,392646019,42.202346,-86.574918,In Transit,10,False,North America
+3187,2026-05-08,TrailRunner Logistics,323321381,48.543291,-90.176492,Returned,3,False,North America
+3968,2026-05-09,TrailRunner Logistics,466673020,14.552144,-39.535408,In Transit,13,True,South America
+3755,2026-05-10,SnowWing Delivery,668989471,41.340798,-78.058334,Delivered,4,False,North America
+3731,2026-05-11,TrailRunner Logistics,800343028,47.337747,18.749508,In Transit,12,True,Europe
+3686,2026-05-12,SummitCargo Transport,583962504,49.56367,1.121694,Delayed,6,False,Europe
+3535,2026-05-13,NorthPeak Express,677704464,39.175451,-92.768673,Delayed,6,False,North America
+3620,2026-05-14,SummitCargo Transport,888108584,37.533136,79.145322,Delivered,11,True,Asia
+3625,2026-05-15,GlacierLine Freight,452894292,47.802571,18.947497,In Transit,4,False,Europe
+3705,2026-05-16,GlacierLine Freight,629049878,41.858218,110.390568,Returned,9,False,Asia
+3835,2026-05-17,SummitCargo Transport,471593144,2.687274,-42.181959,Delayed,11,True,South America
+3224,2026-05-18,TrailRunner Logistics,455148499,-11.496527,-56.634202,In Transit,11,True,South America
+3879,2026-05-19,SnowWing Delivery,118347201,15.256128,91.743045,Returned,2,False,Asia
+3197,2026-05-20,SummitCargo Transport,323250352,40.121028,121.041491,In Transit,4,False,Asia
+3461,2026-05-21,SnowWing Delivery,647037356,48.170231,5.397206,Delivered,10,False,Europe
+3701,2026-05-22,SnowWing Delivery,717621284,58.773301,1.888302,Delivered,4,False,Europe
+3508,2026-05-23,NorthPeak Express,668316931,51.315153,78.957178,Delivered,10,False,Asia
+3298,2026-05-24,SummitCargo Transport,593156093,54.253199,17.430671,Returned,14,True,Europe
+3177,2026-05-25,TrailRunner Logistics,447326235,-42.55945,-71.517744,Delivered,4,False,South America
+3302,2026-05-26,SummitCargo Transport,180704674,-36.536793,-52.526819,Delayed,2,False,South America
+3037,2026-05-27,TrailRunner Logistics,567748239,48.961868,23.063791,Delayed,5,False,Europe
+3206,2026-05-28,SummitCargo Transport,438197015,47.991093,-86.540168,In Transit,5,False,North America
+3119,2026-05-29,SummitCargo Transport,866224119,59.667287,-9.868438,Delayed,13,True,Europe
+3663,2026-05-30,SnowWing Delivery,101568487,36.761471,-96.59165,Delivered,5,False,North America
+3743,2026-05-31,GlacierLine Freight,718398239,-48.643767,-79.27217,In Transit,3,False,South America
+3571,2026-06-01,SnowWing Delivery,711791880,8.516646,-50.528616,Returned,10,False,South America
+3562,2026-06-02,TrailRunner Logistics,235338991,33.766129,105.684838,Delayed,13,True,Asia
+3905,2026-06-03,SummitCargo Transport,707609191,59.081469,9.858842,In Transit,8,False,Europe
+3654,2026-06-04,GlacierLine Freight,990641978,49.163184,13.371594,Returned,2,False,Europe
+3325,2026-06-05,SummitCargo Transport,204852529,26.707986,-113.052599,Returned,3,False,North America
+3078,2026-06-06,NorthPeak Express,808661116,44.589531,82.55136,Returned,13,True,Asia
+3567,2026-06-07,SummitCargo Transport,678449755,-48.016608,-37.532672,Delayed,1,False,South America
+3279,2026-06-08,SummitCargo Transport,348367561,48.96991,-118.240592,Delayed,9,False,North America
+3779,2026-06-09,NorthPeak Express,973781934,29.290743,-92.233131,Delayed,14,True,North America
+3383,2026-06-10,SnowWing Delivery,348416329,25.608783,-96.876662,Returned,1,False,North America
+3314,2026-06-11,TrailRunner Logistics,492449262,3.222193,-75.001154,Delivered,2,False,South America
+3609,2026-06-12,SnowWing Delivery,839971616,51.015541,11.321192,In Transit,7,False,Europe
+3213,2026-06-13,SummitCargo Transport,569746079,28.016389,-119.070381,Delivered,14,True,North America
+3555,2026-06-14,SummitCargo Transport,398037701,30.045086,128.43662,Returned,11,True,Asia
+3084,2026-06-15,SummitCargo Transport,823576299,58.336403,7.955081,Delayed,11,True,Europe
+3708,2026-06-16,TrailRunner Logistics,877792969,43.213804,84.204339,Returned,6,False,Asia
+3100,2026-06-17,NorthPeak Express,597936046,8.08416,-41.923493,Returned,3,False,South America
+3867,2026-06-18,NorthPeak Express,648568096,46.733957,-96.581086,Delivered,2,False,North America
+3719,2026-06-19,SnowWing Delivery,838875738,53.453657,21.11717,In Transit,12,True,Europe
+3703,2026-06-20,TrailRunner Logistics,269269523,50.090569,-4.095635,Returned,6,False,Europe
+3577,2026-06-21,GlacierLine Freight,531823980,54.910594,28.861559,Returned,5,False,Europe
+3206,2026-06-22,SummitCargo Transport,167708939,19.607446,116.514204,Delayed,12,True,Asia
+3217,2026-06-23,NorthPeak Express,654627677,22.164582,139.302068,Delivered,4,False,Asia
+3825,2026-06-24,TrailRunner Logistics,919535651,-32.20581,-69.863621,In Transit,2,False,South America
+3239,2026-06-25,SnowWing Delivery,381729617,25.534145,125.969208,Returned,7,False,Asia
+3376,2026-06-26,TrailRunner Logistics,122118974,-9.729136,-69.505228,In Transit,2,False,South America
+3544,2026-06-27,NorthPeak Express,756645364,47.182938,-6.017097,Returned,14,True,Europe
+3883,2026-06-28,TrailRunner Logistics,199172475,33.682345,-88.96105,Returned,4,False,North America
+3695,2026-06-29,SummitCargo Transport,561707099,25.253211,68.759515,Delayed,6,False,Asia
+3547,2026-06-30,TrailRunner Logistics,421876948,2.17615,-69.513033,Delayed,4,False,South America
+3814,2026-07-01,SnowWing Delivery,691639527,39.703105,132.77204,Delayed,4,False,Asia
+3320,2026-07-02,GlacierLine Freight,572884505,48.106573,7.973879,Delivered,1,False,Europe
+3130,2026-07-03,SnowWing Delivery,589489338,51.810182,11.952239,Delayed,14,True,Europe
+3567,2026-07-04,NorthPeak Express,652090249,59.883118,-5.816145,In Transit,11,True,Europe
+3371,2026-07-05,SummitCargo Transport,346522169,49.965775,-114.251524,Delivered,7,False,North America
+3946,2026-07-06,TrailRunner Logistics,888761986,-47.729131,-42.717968,Returned,7,False,South America
+3112,2026-07-07,SnowWing Delivery,174450611,42.474794,-75.73113,In Transit,8,False,North America
+3376,2026-07-08,SummitCargo Transport,990185822,12.196788,113.754283,Returned,8,False,Asia
+3122,2026-07-09,TrailRunner Logistics,619218661,16.242361,135.45975,In Transit,6,False,Asia
+3421,2026-07-10,SnowWing Delivery,881794446,40.437777,139.786688,Delivered,10,False,Asia
+3066,2026-07-11,GlacierLine Freight,229031878,-12.206365,-37.50165,Delivered,13,True,South America
+3301,2026-07-12,SnowWing Delivery,978682493,44.292889,-94.025695,Returned,14,True,North America
+3334,2026-07-13,TrailRunner Logistics,963249236,6.722088,-71.190195,In Transit,9,False,South America
+3094,2026-07-14,TrailRunner Logistics,670339760,-50.787466,-51.285583,In Transit,2,False,South America
+3507,2026-07-15,GlacierLine Freight,752847866,-31.269546,-63.951154,Delayed,8,False,South America
+3491,2026-07-16,SnowWing Delivery,288583784,46.227221,24.663033,In Transit,6,False,Europe
+3463,2026-07-17,SummitCargo Transport,753030661,50.337235,18.583537,Delivered,8,False,Europe
+3242,2026-07-18,TrailRunner Logistics,147889882,31.200051,88.364558,Returned,9,False,Asia
+3004,2026-07-19,NorthPeak Express,576132776,51.049587,18.69522,Delivered,6,False,Europe
+3048,2026-07-20,TrailRunner Logistics,503652411,-13.063873,-65.818011,Delivered,12,True,South America
+3260,2026-07-21,SnowWing Delivery,188448206,37.464375,104.079131,In Transit,5,False,Asia
+3061,2026-07-22,GlacierLine Freight,129566231,12.950029,75.056505,In Transit,8,False,Asia
+3563,2026-07-23,GlacierLine Freight,264979864,-38.833235,-50.860502,Delivered,4,False,South America
+3285,2026-07-24,SummitCargo Transport,275000110,-0.085058,-78.63945,Returned,4,False,South America
+3311,2026-07-25,TrailRunner Logistics,944650240,29.557658,-98.934781,Returned,3,False,North America
+3406,2026-07-26,SummitCargo Transport,711873413,59.645014,6.793151,Delayed,7,False,Europe
+3914,2026-07-27,GlacierLine Freight,748576860,26.782355,130.62027,Returned,4,False,Asia
+3472,2026-07-28,SummitCargo Transport,271937598,16.183957,119.829703,Delayed,1,False,Asia
+3165,2026-07-29,TrailRunner Logistics,860083268,8.030955,-39.128705,Returned,13,True,South America
+3031,2026-07-30,SummitCargo Transport,248639582,30.601992,-106.620601,Returned,1,False,North America
+3341,2026-07-31,NorthPeak Express,767185390,53.196971,116.848385,Delivered,6,False,Asia
+3498,2026-08-01,GlacierLine Freight,517736484,40.308136,-74.667603,In Transit,4,False,North America
+3647,2026-08-02,SnowWing Delivery,788768519,45.290744,1.191547,Delivered,6,False,Europe
+3682,2026-08-03,SummitCargo Transport,885563833,-52.858772,-53.85656,Returned,2,False,South America
+3513,2026-08-04,SnowWing Delivery,431474630,39.65031,149.101264,Delayed,6,False,Asia
+3736,2026-08-05,GlacierLine Freight,879432305,-14.23419,-73.73777,Delayed,12,True,South America
+3112,2026-08-06,SummitCargo Transport,341638502,-52.724048,-39.714571,Returned,14,True,South America
+3967,2026-08-07,SummitCargo Transport,974813223,51.063522,115.807123,In Transit,9,False,Asia
+3101,2026-08-08,GlacierLine Freight,994193713,12.695093,-45.951786,Delivered,13,True,South America
+3927,2026-08-09,TrailRunner Logistics,642785604,35.175679,-116.840096,Delivered,2,False,North America
+3208,2026-08-10,SnowWing Delivery,895421727,-5.240055,-45.613564,Returned,5,False,South America
+3686,2026-08-11,TrailRunner Logistics,114298922,-11.05462,-47.842572,In Transit,7,False,South America
+3398,2026-08-12,SnowWing Delivery,784919346,33.146487,-106.435799,Delayed,6,False,North America
+3071,2026-08-13,NorthPeak Express,167563445,45.073401,-70.972614,Delayed,4,False,North America
+3761,2026-08-14,NorthPeak Express,389376417,37.293517,-72.991342,Delivered,4,False,North America
+3279,2026-08-15,NorthPeak Express,709381328,55.148086,-0.515985,In Transit,8,False,Europe
+3774,2026-08-16,NorthPeak Express,912652641,37.403049,129.758723,In Transit,2,False,Asia
+3862,2026-08-17,GlacierLine Freight,594103783,32.185144,-120.740476,Delayed,12,True,North America
+3463,2026-08-18,SummitCargo Transport,776507455,16.364214,78.094404,Delayed,14,True,Asia
+3488,2026-08-19,SummitCargo Transport,101816444,-31.579804,-61.800585,Delayed,7,False,South America
+3372,2026-08-20,NorthPeak Express,695066539,35.388379,-81.076838,Delayed,6,False,North America
+3470,2026-08-21,NorthPeak Express,641617921,46.697163,69.958107,Delivered,13,True,Asia
+3439,2026-08-22,NorthPeak Express,185755999,48.970276,22.123628,Delivered,5,False,Europe
+3959,2026-08-23,SnowWing Delivery,998799939,34.618683,-80.644852,In Transit,11,True,North America
+3644,2026-08-24,TrailRunner Logistics,493105235,48.766936,-113.196388,In Transit,5,False,North America
+3359,2026-08-25,NorthPeak Express,770890740,4.345098,-47.241206,Delayed,5,False,South America
+3250,2026-08-26,NorthPeak Express,974561137,16.576739,100.734856,Returned,5,False,Asia
+3746,2026-08-27,GlacierLine Freight,200475997,52.030373,2.84856,Delayed,4,False,Europe
+3358,2026-08-28,GlacierLine Freight,422108882,-41.672679,-65.236995,Delivered,5,False,South America
+3177,2026-08-29,SnowWing Delivery,367466549,-50.429624,-75.433348,In Transit,13,True,South America
+3398,2026-08-30,GlacierLine Freight,638926696,59.304222,-3.924749,Returned,13,True,Europe
+3975,2026-08-31,SnowWing Delivery,319308524,50.338772,28.500635,In Transit,8,False,Europe
+3589,2026-09-01,SnowWing Delivery,864353819,56.688175,15.422334,In Transit,2,False,Europe
+3951,2026-09-02,SnowWing Delivery,167414623,37.786895,108.806621,In Transit,12,True,Asia
+3138,2026-09-03,TrailRunner Logistics,942568572,30.545154,69.989293,In Transit,4,False,Asia
+3309,2026-09-04,SnowWing Delivery,872940085,27.496813,142.224179,In Transit,7,False,Asia
+3113,2026-09-05,SummitCargo Transport,861024106,-37.382974,-73.044068,Delayed,9,False,South America
+3228,2026-09-06,NorthPeak Express,424704687,38.273127,116.079954,Delayed,3,False,Asia
+3361,2026-09-07,SnowWing Delivery,722691083,13.749199,107.183768,In Transit,3,False,Asia
+3760,2026-09-08,SnowWing Delivery,494472804,46.228736,14.427049,Delayed,13,True,Europe
+3747,2026-09-09,TrailRunner Logistics,897807012,-10.861688,-73.677479,Delivered,14,True,South America
+3026,2026-09-10,NorthPeak Express,370984082,14.600259,147.025778,In Transit,7,False,Asia
+3942,2026-09-11,TrailRunner Logistics,514539375,46.924397,0.635465,Delayed,2,False,Europe
+3972,2026-09-12,TrailRunner Logistics,841806242,-1.20678,-56.467937,Returned,2,False,South America
+3610,2026-09-13,TrailRunner Logistics,314105444,51.931069,130.060598,Delivered,2,False,Asia
+3517,2026-09-14,SummitCargo Transport,646127551,29.270996,-107.88552,Delivered,7,False,North America
+3978,2026-09-15,SummitCargo Transport,704263694,52.586596,-3.854846,Returned,6,False,Europe
+3318,2026-09-16,GlacierLine Freight,290775484,20.091457,103.789695,Delayed,14,True,Asia
+3300,2026-09-17,SummitCargo Transport,308513514,45.854129,-88.312902,Delayed,8,False,North America
+3142,2026-09-18,SummitCargo Transport,865903012,53.378493,28.625356,Delivered,2,False,Europe
+3180,2026-09-19,TrailRunner Logistics,425571767,33.819887,-118.930037,Delivered,10,False,North America
+3795,2026-09-20,SnowWing Delivery,215502738,45.881066,127.669999,Delayed,4,False,Asia
+3682,2026-09-21,SnowWing Delivery,819695534,-3.891013,-61.004685,Returned,8,False,South America
+3793,2026-09-22,GlacierLine Freight,825300534,23.397444,116.34238,In Transit,3,False,Asia
+3320,2026-09-23,GlacierLine Freight,268032498,-14.357061,-44.098882,Returned,12,True,South America
+3567,2026-09-24,NorthPeak Express,739360793,-13.253358,-74.912539,Delayed,9,False,South America
+3874,2026-09-25,TrailRunner Logistics,937500439,38.689203,-103.468068,In Transit,10,False,North America
+3962,2026-09-26,NorthPeak Express,174921831,-4.623982,-41.908631,Delivered,11,True,South America
+3393,2026-09-27,TrailRunner Logistics,673233568,37.089259,-103.89572,Returned,11,True,North America
+3075,2026-09-28,SnowWing Delivery,525680929,46.657098,-79.741839,Delayed,13,True,North America
+3170,2026-09-29,TrailRunner Logistics,846999349,28.6736,-95.129226,Delayed,3,False,North America
+3811,2026-09-30,SummitCargo Transport,491822442,44.505952,63.658559,Returned,6,False,Asia
+3015,2026-10-01,TrailRunner Logistics,283419745,26.362628,-82.55135,Delivered,12,True,North America
+3522,2026-10-02,NorthPeak Express,423658447,59.251225,1.805696,Delayed,12,True,Europe
+3861,2026-10-03,NorthPeak Express,547045210,53.658839,18.623676,Returned,13,True,Europe
+3362,2026-10-04,SummitCargo Transport,675422035,-23.833459,-66.063477,Delivered,11,True,South America
+3893,2026-10-05,SnowWing Delivery,447230377,34.838338,123.60994,Returned,13,True,Asia
+3579,2026-10-06,SnowWing Delivery,956963154,-51.6015,-47.18738,Returned,6,False,South America
+3428,2026-10-07,GlacierLine Freight,135293157,29.981049,81.366396,Delayed,10,False,Asia
+3474,2026-10-08,SummitCargo Transport,213707040,-40.261713,-41.489445,Delivered,6,False,South America
+3572,2026-10-09,GlacierLine Freight,192397830,49.469805,-87.729165,Delivered,9,False,North America
+3056,2026-10-10,NorthPeak Express,393488751,45.142722,24.719491,Delayed,9,False,Europe
+3039,2026-10-11,SummitCargo Transport,194191734,55.578772,0.071239,Returned,9,False,Europe
+3497,2026-10-12,SnowWing Delivery,108680200,25.836326,-104.348379,Delayed,11,True,North America
+3135,2026-10-13,GlacierLine Freight,242305938,36.489055,71.519587,In Transit,4,False,Asia
+3085,2026-10-14,SummitCargo Transport,184210692,11.745838,75.14025,Delayed,13,True,Asia
+3842,2026-10-15,TrailRunner Logistics,398650404,13.332185,74.270748,In Transit,14,True,Asia
+3440,2026-10-16,SnowWing Delivery,155965156,33.492599,-71.0065,Returned,4,False,North America
+3002,2026-10-17,GlacierLine Freight,353787299,37.166985,-100.05689,Delivered,1,False,North America
+3758,2026-10-18,SnowWing Delivery,610972051,15.365799,141.048384,Delivered,14,True,Asia
+3373,2026-10-19,SnowWing Delivery,926076593,11.172141,70.604953,Returned,10,False,Asia
+3055,2026-10-20,GlacierLine Freight,995472486,46.636434,19.78747,Delivered,13,True,Europe
+3330,2026-10-21,SnowWing Delivery,596138373,47.063167,-112.574543,Delayed,1,False,North America
+3010,2026-10-22,TrailRunner Logistics,740956940,30.183441,-84.040896,Returned,6,False,North America
+3435,2026-10-23,NorthPeak Express,333336487,49.26711,-109.338542,In Transit,6,False,North America
+3319,2026-10-24,NorthPeak Express,702186439,-18.619114,-51.657018,Returned,12,True,South America
+3923,2026-10-25,NorthPeak Express,183934614,14.021133,119.118347,In Transit,8,False,Asia
+3003,2026-10-26,NorthPeak Express,834405310,-11.238443,-63.415398,Delayed,7,False,South America
+3719,2026-10-27,NorthPeak Express,830581614,48.908171,-85.416423,Returned,8,False,North America
+3387,2026-10-28,NorthPeak Express,530443792,53.339073,29.415127,Delivered,8,False,Europe
+3756,2026-10-29,SummitCargo Transport,258774865,17.776795,135.568319,Delivered,9,False,Asia
+3142,2026-10-30,GlacierLine Freight,314353138,32.79648,-82.668826,Delayed,13,True,North America
+3397,2026-10-31,GlacierLine Freight,530342075,35.559579,-87.453997,In Transit,6,False,North America
+3412,2026-11-01,TrailRunner Logistics,835342916,55.121228,3.101815,Delayed,11,True,Europe
+3724,2026-11-02,GlacierLine Freight,761175681,37.347162,-121.498181,Returned,5,False,North America
+3550,2026-11-03,SummitCargo Transport,516370648,-24.247882,-38.937851,Delayed,13,True,South America
+3323,2026-11-04,TrailRunner Logistics,802818431,-32.669714,-46.832429,In Transit,12,True,South America
+3050,2026-11-05,TrailRunner Logistics,114884701,53.386128,10.4113,Delayed,7,False,Europe
+3921,2026-11-06,GlacierLine Freight,902603067,-53.570654,-37.281978,Delivered,7,False,South America
+3950,2026-11-07,NorthPeak Express,361518267,56.891452,-4.709538,Returned,9,False,Europe
+3447,2026-11-08,GlacierLine Freight,652424035,15.803609,84.11581,Returned,8,False,Asia
+3878,2026-11-09,SnowWing Delivery,697404097,27.713968,-118.171019,Delayed,2,False,North America
+3764,2026-11-10,NorthPeak Express,207898768,40.408665,81.529048,Delivered,2,False,Asia
+3607,2026-11-11,SnowWing Delivery,785073684,51.598981,-8.929312,Delivered,4,False,Europe
+3239,2026-11-12,GlacierLine Freight,797552870,30.270571,127.248551,Delayed,14,True,Asia
+3432,2026-11-13,TrailRunner Logistics,109591492,-9.194251,-68.120621,Delivered,3,False,South America
+3185,2026-11-14,SummitCargo Transport,872350278,51.034322,20.817311,Returned,1,False,Europe
+3916,2026-11-15,TrailRunner Logistics,811091013,41.266309,116.475133,Delivered,13,True,Asia
+3654,2026-11-16,SnowWing Delivery,766418252,36.738842,-96.243913,Delivered,11,True,North America
+3978,2026-11-17,SummitCargo Transport,445074259,35.056235,-106.859251,Delivered,14,True,North America
+3306,2026-11-18,NorthPeak Express,950707551,25.686728,-84.660322,Delivered,6,False,North America
+3124,2026-11-19,NorthPeak Express,411437489,52.137429,6.910186,Returned,2,False,Europe
+3962,2026-11-20,SummitCargo Transport,143693950,-10.202537,-68.560697,Delivered,1,False,South America
+3894,2026-11-21,SnowWing Delivery,918099715,57.517951,-7.629534,Delayed,5,False,Europe
+3809,2026-11-22,TrailRunner Logistics,769558156,54.623637,8.609947,Delivered,8,False,Europe
+3744,2026-11-23,GlacierLine Freight,763070702,-41.319638,-62.268139,In Transit,7,False,South America
+3855,2026-11-24,TrailRunner Logistics,132115652,-10.987238,-35.928087,Delivered,5,False,South America
+3964,2026-11-25,TrailRunner Logistics,778321666,25.945444,-100.83361,Delayed,13,True,North America
+3305,2026-11-26,NorthPeak Express,673859748,25.890382,-121.777915,Returned,3,False,North America
+3834,2026-11-27,TrailRunner Logistics,208730014,31.165757,-75.831601,Delivered,3,False,North America
+3497,2026-11-28,TrailRunner Logistics,535797959,41.453023,-98.58923,Delayed,2,False,North America
+3031,2026-11-29,SnowWing Delivery,133897038,49.734038,5.68423,Returned,11,True,Europe
+3914,2026-11-30,TrailRunner Logistics,418049345,54.835931,8.867667,Returned,8,False,Europe
+3368,2026-12-01,SummitCargo Transport,969046209,-32.896626,-66.482522,Returned,2,False,South America
+3783,2026-12-02,TrailRunner Logistics,373401429,12.393335,85.551718,Delayed,3,False,Asia
+3370,2026-12-03,SnowWing Delivery,500804113,59.347747,12.455528,Delivered,4,False,Europe
+3934,2026-12-04,TrailRunner Logistics,114858055,30.40069,85.02816,Delayed,3,False,Asia
+3336,2026-12-05,SummitCargo Transport,785406253,35.520574,146.708536,Returned,12,True,Asia
+3961,2026-12-06,NorthPeak Express,332544482,47.733945,4.758904,In Transit,7,False,Europe
+3088,2026-12-07,GlacierLine Freight,220511986,40.043125,-119.490875,Delayed,5,False,North America
+3861,2026-12-08,SummitCargo Transport,687391373,53.122525,1.838115,Returned,10,False,Europe
+3188,2026-12-09,NorthPeak Express,291010394,-37.5369,-72.729945,Delivered,4,False,South America
+3829,2026-12-10,TrailRunner Logistics,360816994,-31.028762,-61.75936,Delayed,1,False,South America
+3464,2026-12-11,GlacierLine Freight,174445448,-47.959667,-63.90574,Delivered,10,False,South America
+3288,2026-12-12,TrailRunner Logistics,754374868,-15.300684,-42.123483,Delivered,2,False,South America
+3141,2026-12-13,NorthPeak Express,786712624,45.351614,-76.659557,In Transit,14,True,North America
+3065,2026-12-14,TrailRunner Logistics,809854578,10.087063,93.477488,Delivered,14,True,Asia
+3410,2026-12-15,GlacierLine Freight,758810362,25.67508,-83.390487,Delivered,13,True,North America
+3944,2026-12-16,SummitCargo Transport,831754195,18.861122,116.452622,Delivered,1,False,Asia
+3694,2026-12-17,GlacierLine Freight,216605627,53.181438,-9.564096,Delayed,5,False,Europe
+3671,2026-12-18,NorthPeak Express,637011178,40.391097,106.517212,In Transit,1,False,Asia
+3073,2026-12-19,GlacierLine Freight,259410529,29.368956,104.066916,Delivered,2,False,Asia
+3870,2026-12-20,SummitCargo Transport,690470783,1.577025,-54.931563,Delivered,10,False,South America
+3293,2026-12-21,SummitCargo Transport,192521253,37.136118,63.097568,Delayed,7,False,Asia
+3571,2026-12-22,SnowWing Delivery,426799403,30.734028,124.990412,Delivered,5,False,Asia
+3095,2026-12-23,SummitCargo Transport,396850408,51.303903,1.768558,Returned,3,False,Europe
+3425,2026-12-24,SummitCargo Transport,607341089,-15.020071,-40.416839,Returned,5,False,South America
+3825,2026-12-25,NorthPeak Express,311957052,25.961975,-91.076829,Returned,1,False,North America
+3213,2026-12-26,TrailRunner Logistics,102366789,50.681822,-5.139669,Delivered,12,True,Europe
+3237,2026-12-27,NorthPeak Express,635923574,47.506299,78.516543,Delivered,6,False,Asia
+3823,2026-12-28,NorthPeak Express,935129793,-35.298562,-78.215206,Delayed,7,False,South America
+3995,2026-12-29,GlacierLine Freight,110490051,42.149456,117.819364,Delayed,5,False,Asia
+3841,2026-12-30,GlacierLine Freight,533959746,48.727092,9.462697,Delivered,1,False,Europe
+3876,2026-12-31,SummitCargo Transport,288280455,48.146585,-2.7669,Delivered,8,False,Europe
+3876,2027-01-01,NorthPeak Express,184365902,47.628423,9.146709,Returned,2,False,Europe
+3267,2027-01-02,SnowWing Delivery,595251625,44.135669,-111.231499,Delivered,8,False,North America
+3488,2027-01-03,GlacierLine Freight,414073226,7.37136,-71.653455,Returned,8,False,South America
+3254,2027-01-04,TrailRunner Logistics,951071757,49.228196,-93.799334,Delayed,12,True,North America
+3344,2027-01-05,TrailRunner Logistics,330682624,16.532775,113.188206,Delivered,9,False,Asia
+3944,2027-01-06,TrailRunner Logistics,371429694,-6.5668,-76.055172,In Transit,1,False,South America
+3232,2027-01-07,SummitCargo Transport,846115513,39.625484,-70.449134,Delivered,9,False,North America
+3748,2027-01-08,NorthPeak Express,382806944,29.322323,-105.611615,In Transit,12,True,North America
+3186,2027-01-09,GlacierLine Freight,655128134,12.046881,-64.253236,Delivered,2,False,South America
+3471,2027-01-10,GlacierLine Freight,535284848,28.445754,-85.576527,Delivered,14,True,North America
+3424,2027-01-11,SnowWing Delivery,537927584,9.032384,-57.935246,In Transit,13,True,South America
+3071,2027-01-12,TrailRunner Logistics,902469981,39.267071,-113.887226,In Transit,10,False,North America
+3216,2027-01-13,SummitCargo Transport,670819095,44.505511,-89.723515,Delivered,8,False,North America
+3967,2027-01-14,TrailRunner Logistics,967501309,39.637305,-114.492894,Delayed,4,False,North America
+3433,2027-01-15,GlacierLine Freight,606466285,43.194448,-106.395185,Delivered,13,True,North America
+3277,2027-01-16,TrailRunner Logistics,705440160,56.789419,-2.684641,Delivered,6,False,Europe
+3504,2027-01-17,SummitCargo Transport,870218383,43.745046,-82.101047,Delivered,2,False,North America
+3831,2027-01-18,GlacierLine Freight,181576504,49.58039,27.105624,Returned,1,False,Europe
+3399,2027-01-19,GlacierLine Freight,371973171,50.128303,18.153008,Delivered,11,True,Europe
+3304,2027-01-20,NorthPeak Express,205165619,4.297592,-56.241558,Returned,5,False,South America
+3306,2027-01-21,NorthPeak Express,146611502,12.027879,67.149715,Returned,3,False,Asia
+3680,2027-01-22,SummitCargo Transport,789015825,47.874475,-120.17333,Delayed,12,True,North America
+3633,2027-01-23,NorthPeak Express,552364971,15.223682,62.210109,Delayed,5,False,Asia
+3662,2027-01-24,NorthPeak Express,554706931,59.119494,29.247549,Delivered,6,False,Europe
+3722,2027-01-25,SnowWing Delivery,869173527,22.987413,121.624137,In Transit,14,True,Asia
+3221,2027-01-26,SnowWing Delivery,780188434,47.91331,25.70225,In Transit,12,True,Europe
+3607,2027-01-27,SummitCargo Transport,327756569,41.691085,132.693372,Delivered,14,True,Asia
+3634,2027-01-28,TrailRunner Logistics,896914802,48.874452,-86.642212,In Transit,11,True,North America
+3309,2027-01-29,GlacierLine Freight,365702279,6.942741,-39.274115,In Transit,8,False,South America
+3650,2027-01-30,NorthPeak Express,378620476,-37.283445,-44.170796,Returned,8,False,South America
+3841,2027-01-31,SnowWing Delivery,583109869,56.246065,-1.797014,Delayed,13,True,Europe
+3700,2027-02-01,TrailRunner Logistics,555873480,21.249493,99.121306,Delivered,3,False,Asia
+3588,2027-02-02,NorthPeak Express,438941531,40.169514,-95.538534,Delayed,6,False,North America
+3381,2027-02-03,GlacierLine Freight,632441214,12.71272,71.920228,In Transit,2,False,Asia
+3375,2027-02-04,SnowWing Delivery,453157606,34.958062,77.180684,Returned,11,True,Asia
+3369,2027-02-05,SummitCargo Transport,291492045,46.87236,64.056694,Delivered,6,False,Asia
+3757,2027-02-06,NorthPeak Express,953352723,3.012325,-51.30474,Delayed,6,False,South America
+3176,2027-02-07,TrailRunner Logistics,292116529,52.259013,15.75049,Delayed,6,False,Europe
+3330,2027-02-08,SnowWing Delivery,648372184,41.659112,124.482232,In Transit,11,True,Asia
+3950,2027-02-09,SummitCargo Transport,323934546,14.836106,103.733634,Delivered,6,False,Asia
+3395,2027-02-10,TrailRunner Logistics,715526426,34.478928,-76.004406,In Transit,12,True,North America
+3858,2027-02-11,SummitCargo Transport,934057959,-6.211957,-47.610281,Delivered,14,True,South America
+3330,2027-02-12,SnowWing Delivery,182514964,49.472034,-81.934178,In Transit,8,False,North America
+3612,2027-02-13,TrailRunner Logistics,293746034,48.754498,125.543389,Returned,4,False,Asia
+3165,2027-02-14,TrailRunner Logistics,501729032,-42.967412,-51.356784,Delayed,8,False,South America
+3043,2027-02-15,SnowWing Delivery,721267768,14.883355,-44.146912,Delivered,7,False,South America
+3943,2027-02-16,TrailRunner Logistics,486261551,26.838106,-79.55599,Returned,2,False,North America
+3496,2027-02-17,TrailRunner Logistics,392221002,-17.617812,-60.768412,Delayed,12,True,South America
+3572,2027-02-18,SnowWing Delivery,463132447,9.05294,-40.413345,Returned,2,False,South America
+3614,2027-02-19,TrailRunner Logistics,720695141,44.978194,-79.466319,Returned,8,False,North America
+3782,2027-02-20,SnowWing Delivery,700434145,-48.071713,-65.496,In Transit,6,False,South America
+3337,2027-02-21,NorthPeak Express,529366776,-49.590488,-37.808474,Returned,13,True,South America
+3876,2027-02-22,NorthPeak Express,995560643,11.08401,70.922021,Delayed,10,False,Asia
+3302,2027-02-23,SnowWing Delivery,120725482,34.549048,-72.039691,Delayed,8,False,North America
+3459,2027-02-24,TrailRunner Logistics,711626594,32.769836,-116.703997,Delayed,9,False,North America
+3863,2027-02-25,SummitCargo Transport,322590867,40.959267,-99.723006,In Transit,1,False,North America
+3651,2027-02-26,NorthPeak Express,720644850,49.536735,-119.483271,In Transit,12,True,North America
+3318,2027-02-27,SummitCargo Transport,206324500,54.247369,23.044544,Delayed,10,False,Europe
+3864,2027-02-28,TrailRunner Logistics,997478927,27.426314,-103.001093,In Transit,1,False,North America
+3896,2027-03-01,GlacierLine Freight,933479281,30.148496,-120.051718,In Transit,5,False,North America
+3827,2027-03-02,SnowWing Delivery,226738686,30.491183,-71.246456,In Transit,9,False,North America
+3214,2027-03-03,SnowWing Delivery,694464172,17.758018,127.092642,Delayed,7,False,Asia
+3453,2027-03-04,NorthPeak Express,899049501,22.516201,62.496596,Delivered,14,True,Asia
+3417,2027-03-05,SummitCargo Transport,824092589,12.993316,128.588294,Returned,8,False,Asia
+3630,2027-03-06,SummitCargo Transport,378027349,45.166846,-79.729572,Delivered,14,True,North America
+3606,2027-03-07,TrailRunner Logistics,489858408,27.946004,-77.704195,In Transit,7,False,North America
+3557,2027-03-08,TrailRunner Logistics,787414995,32.86101,89.007184,In Transit,14,True,Asia
+3947,2027-03-09,SummitCargo Transport,414055688,41.796295,-123.440443,Returned,6,False,North America
+3546,2027-03-10,TrailRunner Logistics,247977196,-16.318012,-52.595886,Delivered,1,False,South America
+3967,2027-03-11,SnowWing Delivery,597158822,47.764797,97.057434,Returned,1,False,Asia
+3859,2027-03-12,GlacierLine Freight,879317532,33.018234,115.685906,Delivered,3,False,Asia
+3541,2027-03-13,SnowWing Delivery,200179473,38.403553,-113.634116,Delayed,1,False,North America
+3804,2027-03-14,NorthPeak Express,406430605,7.241736,-57.709711,Delayed,13,True,South America
+3469,2027-03-15,SnowWing Delivery,359553811,58.080158,-7.475312,Delayed,11,True,Europe
+3599,2027-03-16,SnowWing Delivery,301581943,-54.689426,-65.749347,In Transit,1,False,South America
+3980,2027-03-17,SummitCargo Transport,938111857,34.149881,-104.429998,In Transit,8,False,North America
+3987,2027-03-18,SummitCargo Transport,246827640,36.932217,143.444582,In Transit,11,True,Asia
+3951,2027-03-19,GlacierLine Freight,489660577,27.768171,-89.062954,Delayed,6,False,North America
+3291,2027-03-20,NorthPeak Express,697160404,2.601401,-79.522822,Delivered,12,True,South America
+3235,2027-03-21,SummitCargo Transport,640079753,45.40159,-9.647278,Delivered,9,False,Europe
+3157,2027-03-22,SnowWing Delivery,484390677,50.925052,105.702923,Delayed,14,True,Asia
+3830,2027-03-23,SnowWing Delivery,822309138,38.440633,-111.169341,Delayed,2,False,North America
+3794,2027-03-24,SnowWing Delivery,502214615,58.212473,0.479801,Delivered,7,False,Europe
+3299,2027-03-25,NorthPeak Express,320157883,53.598359,23.562136,Delivered,10,False,Europe
+3668,2027-03-26,SnowWing Delivery,820560359,-26.613479,-63.759919,Returned,9,False,South America
+3635,2027-03-27,TrailRunner Logistics,897124893,51.422056,23.847929,Delayed,2,False,Europe
+3827,2027-03-28,GlacierLine Freight,406039064,43.698138,-82.204819,Delayed,12,True,North America
+3964,2027-03-29,TrailRunner Logistics,312359843,39.500077,87.322432,In Transit,12,True,Asia
+3559,2027-03-30,TrailRunner Logistics,951561834,28.083556,-124.046667,Delivered,12,True,North America
+3501,2027-03-31,GlacierLine Freight,792184425,47.067195,4.736339,Delayed,12,True,Europe
+3900,2027-04-01,SummitCargo Transport,990889852,52.322686,24.456523,In Transit,9,False,Europe
+3854,2027-04-02,GlacierLine Freight,181199093,47.645646,-3.212338,Returned,14,True,Europe
+3532,2027-04-03,SnowWing Delivery,439849751,49.879875,5.88158,Returned,3,False,Europe
+3263,2027-04-04,NorthPeak Express,108907204,35.456695,134.916802,In Transit,2,False,Asia
+3176,2027-04-05,NorthPeak Express,763570702,-23.722107,-64.668647,In Transit,12,True,South America
+3900,2027-04-06,SnowWing Delivery,759075506,28.152815,-71.73675,Delayed,14,True,North America
+3303,2027-04-07,NorthPeak Express,692535100,21.809186,70.043966,Delayed,10,False,Asia
+3454,2027-04-08,SnowWing Delivery,806589493,36.169491,-107.498016,Returned,3,False,North America
+3354,2027-04-09,TrailRunner Logistics,466344705,51.286235,65.159961,Returned,8,False,Asia
+3034,2027-04-10,SnowWing Delivery,697624526,37.216974,-100.605839,Delayed,5,False,North America
+3708,2027-04-11,GlacierLine Freight,163537770,-26.121776,-76.057731,Returned,6,False,South America
+3269,2027-04-12,GlacierLine Freight,371287916,-43.999364,-57.113006,Returned,6,False,South America
+3688,2027-04-13,SummitCargo Transport,835138036,-3.622281,-44.208268,In Transit,14,True,South America
+3922,2027-04-14,GlacierLine Freight,715032432,44.086237,-120.113124,Delivered,6,False,North America
+3607,2027-04-15,GlacierLine Freight,937139012,-28.883923,-64.526086,Delayed,2,False,South America
+3675,2027-04-16,SnowWing Delivery,729550451,15.091186,119.984493,Delayed,3,False,Asia
+3261,2027-04-17,NorthPeak Express,675827519,-5.940862,-72.934656,Returned,9,False,South America
+3924,2027-04-18,TrailRunner Logistics,191751504,-39.833544,-40.394183,Delivered,14,True,South America
+3209,2027-04-19,TrailRunner Logistics,718300814,25.302918,135.379048,Delivered,4,False,Asia
+3295,2027-04-20,SnowWing Delivery,839314112,55.702687,-7.252949,Delivered,9,False,Europe
+3303,2027-04-21,NorthPeak Express,579364603,-15.795591,-54.833986,In Transit,12,True,South America
+3793,2027-04-22,GlacierLine Freight,634295431,-46.781984,-46.018814,Delivered,2,False,South America
+3466,2027-04-23,SummitCargo Transport,801391723,41.757859,132.199458,Delivered,7,False,Asia
+3853,2027-04-24,SnowWing Delivery,666901413,3.674353,-60.641382,In Transit,7,False,South America
+3485,2027-04-25,NorthPeak Express,479476165,-19.293282,-40.301362,Returned,2,False,South America
+3712,2027-04-26,SnowWing Delivery,744648633,45.694261,104.480036,In Transit,9,False,Asia
+3935,2027-04-27,SnowWing Delivery,135966007,19.631613,69.044347,Returned,1,False,Asia
+3600,2027-04-28,NorthPeak Express,841752731,50.542056,26.723578,In Transit,12,True,Europe
+3713,2027-04-29,SummitCargo Transport,227866422,21.415989,145.910982,Delayed,6,False,Asia
+3665,2027-04-30,SnowWing Delivery,999354977,-48.911637,-43.579889,Delayed,9,False,South America
+3650,2027-05-01,NorthPeak Express,337351235,49.379319,121.500687,Delayed,8,False,Asia
+3301,2027-05-02,NorthPeak Express,169060644,21.505548,93.588649,Delayed,10,False,Asia
+3948,2027-05-03,NorthPeak Express,341649806,-48.453881,-57.651789,Delayed,8,False,South America
+3923,2027-05-04,SummitCargo Transport,297427601,38.629378,-79.981047,In Transit,5,False,North America
+3858,2027-05-05,TrailRunner Logistics,518006714,49.542347,3.120236,Delivered,1,False,Europe
+3534,2027-05-06,NorthPeak Express,267965425,39.360636,147.763277,In Transit,13,True,Asia
+3128,2027-05-07,TrailRunner Logistics,426793095,59.686086,7.723117,Delivered,1,False,Europe
+3413,2027-05-08,TrailRunner Logistics,227785887,20.265378,110.987519,Delayed,1,False,Asia
+3033,2027-05-09,NorthPeak Express,814393878,27.813715,-103.684701,In Transit,5,False,North America
+3709,2027-05-10,SummitCargo Transport,801474540,56.927324,9.263733,Delayed,2,False,Europe
+3051,2027-05-11,TrailRunner Logistics,567550959,36.512229,-105.701119,Returned,5,False,North America
+3802,2027-05-12,SummitCargo Transport,649225878,29.172617,-111.236367,In Transit,9,False,North America
+3051,2027-05-13,SummitCargo Transport,670972244,-51.773732,-74.486271,Returned,4,False,South America
+3558,2027-05-14,TrailRunner Logistics,847278434,-26.686134,-50.434788,Returned,5,False,South America
+3725,2027-05-15,NorthPeak Express,736252412,50.477247,2.98961,In Transit,2,False,Europe
+3988,2027-05-16,SnowWing Delivery,857689066,51.663417,24.630216,Returned,10,False,Europe
+3247,2027-05-17,SummitCargo Transport,980888760,49.26672,23.64065,Delivered,1,False,Europe
+3951,2027-05-18,NorthPeak Express,247529742,49.569608,11.168246,In Transit,10,False,Europe
+3264,2027-05-19,NorthPeak Express,540199168,-42.298199,-44.815891,Returned,4,False,South America
+3207,2027-05-20,SummitCargo Transport,444318893,46.640869,14.867718,Delivered,13,True,Europe
+3929,2027-05-21,NorthPeak Express,653660127,31.508175,-75.39895,Delayed,9,False,North America
+3817,2027-05-22,SummitCargo Transport,149398535,41.262752,113.769222,Delayed,7,False,Asia
+3878,2027-05-23,NorthPeak Express,485755225,-21.648034,-43.414909,Delayed,3,False,South America
+3276,2027-05-24,TrailRunner Logistics,871466526,20.301239,89.8245,Delivered,11,True,Asia
+3977,2027-05-25,GlacierLine Freight,452025767,20.603778,95.67667,Delivered,12,True,Asia
+3653,2027-05-26,NorthPeak Express,646640733,44.86815,61.260754,Delivered,4,False,Asia
+3932,2027-05-27,GlacierLine Freight,524919152,41.236085,-117.910312,Returned,10,False,North America
+3009,2027-05-28,TrailRunner Logistics,760364518,1.078943,-73.319109,Returned,5,False,South America
+3282,2027-05-29,TrailRunner Logistics,327092132,51.324773,-9.702063,Delivered,2,False,Europe
+3394,2027-05-30,NorthPeak Express,532415896,57.823421,-7.688596,Returned,9,False,Europe
+3041,2027-05-31,NorthPeak Express,910378718,52.315112,3.872495,Returned,12,True,Europe
+3291,2027-06-01,TrailRunner Logistics,119020589,46.151207,2.779509,Delayed,11,True,Europe
+3285,2027-06-02,GlacierLine Freight,234786469,37.815419,-102.612578,Delivered,8,False,North America
+3242,2027-06-03,NorthPeak Express,225252477,47.583546,22.534097,In Transit,6,False,Europe
+3571,2027-06-04,SummitCargo Transport,774217099,59.573772,21.452985,Returned,6,False,Europe
+3145,2027-06-05,TrailRunner Logistics,269186665,56.597238,-8.546883,Delivered,13,True,Europe
+3344,2027-06-06,GlacierLine Freight,426381595,-32.31342,-76.110853,Returned,14,True,South America
+3766,2027-06-07,GlacierLine Freight,999754513,48.373818,63.284373,Delayed,2,False,Asia
+3524,2027-06-08,NorthPeak Express,173494936,36.755049,-109.210547,Delayed,8,False,North America
+3435,2027-06-09,GlacierLine Freight,112247865,27.37299,-123.686402,Returned,8,False,North America
+3848,2027-06-10,SummitCargo Transport,938820358,54.072288,-4.601118,Returned,8,False,Europe
+3950,2027-06-11,GlacierLine Freight,567954042,-36.831043,-73.179022,Delivered,7,False,South America
+3088,2027-06-12,NorthPeak Express,755302820,28.967145,-98.040211,Delivered,13,True,North America
+3397,2027-06-13,SummitCargo Transport,375484146,-42.264349,-47.596198,Delivered,14,True,South America
+3209,2027-06-14,TrailRunner Logistics,986451478,-29.66029,-77.60289,In Transit,11,True,South America
+3665,2027-06-15,SummitCargo Transport,850627618,-41.661346,-36.982344,Returned,12,True,South America
+3237,2027-06-16,GlacierLine Freight,238616174,-48.340928,-35.12373,Delivered,3,False,South America
+3725,2027-06-17,TrailRunner Logistics,399878912,32.196593,133.0102,Returned,8,False,Asia
+3304,2027-06-18,GlacierLine Freight,109194403,40.410315,-116.578059,Delivered,11,True,North America
+3517,2027-06-19,SnowWing Delivery,983519436,40.786749,64.531663,Delayed,14,True,Asia
+3516,2027-06-20,NorthPeak Express,774417397,-31.187394,-46.565643,In Transit,2,False,South America
+3692,2027-06-21,TrailRunner Logistics,721332657,16.353401,81.759929,Returned,2,False,Asia
+3184,2027-06-22,TrailRunner Logistics,878771974,16.565141,102.528119,In Transit,8,False,Asia
+3415,2027-06-23,SummitCargo Transport,572991249,45.651921,7.505486,Delayed,3,False,Europe
+3356,2027-06-24,TrailRunner Logistics,770070797,-16.075582,-75.921901,Delivered,10,False,South America
+3461,2027-06-25,GlacierLine Freight,458261817,44.501788,138.248207,Delivered,5,False,Asia
+3377,2027-06-26,SummitCargo Transport,138376645,0.091929,-71.336461,Delivered,11,True,South America
+3165,2027-06-27,SummitCargo Transport,652613008,31.743678,-102.018252,In Transit,11,True,North America
+3295,2027-06-28,SnowWing Delivery,333780957,41.174048,-115.5961,Delivered,13,True,North America
+3773,2027-06-29,TrailRunner Logistics,129532391,48.170619,110.090607,Returned,5,False,Asia
+3001,2027-06-30,SummitCargo Transport,611158172,51.0796,22.830425,Delayed,9,False,Europe
+3234,2027-07-01,TrailRunner Logistics,353241950,45.099645,65.919178,Delayed,14,True,Asia
+3567,2027-07-02,SummitCargo Transport,415634377,45.996539,-4.14967,Returned,6,False,Europe
+3173,2027-07-03,NorthPeak Express,774090850,58.725385,-2.417377,Delivered,13,True,Europe
+3443,2027-07-04,SummitCargo Transport,315528577,37.94228,-105.266976,Delivered,5,False,North America
+3503,2027-07-05,TrailRunner Logistics,478639165,30.562835,-122.175116,Delayed,14,True,North America
+3667,2027-07-06,TrailRunner Logistics,539913433,35.295974,-86.854149,Returned,12,True,North America
+3895,2027-07-07,SummitCargo Transport,181085676,48.230215,-7.689507,Delayed,10,False,Europe
+3214,2027-07-08,SnowWing Delivery,270642640,59.983427,-1.697773,Returned,9,False,Europe
+3325,2027-07-09,NorthPeak Express,290297572,31.261036,-70.006954,Delayed,8,False,North America
+3719,2027-07-10,TrailRunner Logistics,822670699,55.140002,26.301613,Delivered,7,False,Europe
+3502,2027-07-11,SnowWing Delivery,964673030,-18.792059,-47.367341,Delayed,6,False,South America
+3162,2027-07-12,SummitCargo Transport,149506466,25.682737,-70.949338,Returned,4,False,North America
+3341,2027-07-13,SummitCargo Transport,989477668,-32.511781,-74.48504,Delivered,3,False,South America
+3916,2027-07-14,SummitCargo Transport,852903936,5.760294,-72.775777,In Transit,1,False,South America
+3229,2027-07-15,GlacierLine Freight,617210984,52.482613,26.250423,Delivered,7,False,Europe
+3894,2027-07-16,SnowWing Delivery,815776887,49.336658,80.800473,In Transit,13,True,Asia
+3319,2027-07-17,SnowWing Delivery,638167435,28.825678,-90.686832,Delayed,3,False,North America
+3831,2027-07-18,GlacierLine Freight,228807296,21.392415,116.350903,Delivered,9,False,Asia
+3718,2027-07-19,NorthPeak Express,852329205,50.693862,-3.057702,Delivered,3,False,Europe
+3919,2027-07-20,SummitCargo Transport,518080890,-42.112297,-58.194831,Delayed,1,False,South America
+3673,2027-07-21,SnowWing Delivery,910567910,29.376614,-91.686128,In Transit,5,False,North America
+3502,2027-07-22,TrailRunner Logistics,607630946,48.35146,-90.828482,Delayed,7,False,North America
+3136,2027-07-23,NorthPeak Express,157668815,50.063877,-7.453388,In Transit,13,True,Europe
+3694,2027-07-24,SnowWing Delivery,164930882,50.273303,5.512235,Delayed,10,False,Europe
+3341,2027-07-25,GlacierLine Freight,284267438,13.312403,72.627079,Delivered,2,False,Asia
+3507,2027-07-26,SummitCargo Transport,266704886,-34.486444,-71.215199,In Transit,9,False,South America
+3900,2027-07-27,NorthPeak Express,165488984,-8.105769,-49.571265,Delayed,9,False,South America
+3867,2027-07-28,SummitCargo Transport,624935893,48.774326,-71.538347,Returned,11,True,North America
+3417,2027-07-29,NorthPeak Express,959266816,25.721841,-101.143406,In Transit,5,False,North America
+3254,2027-07-30,GlacierLine Freight,565680710,38.99272,-105.747666,Delivered,3,False,North America
+3120,2027-07-31,GlacierLine Freight,941191050,49.207408,20.962344,Delivered,14,True,Europe
+3592,2027-08-01,NorthPeak Express,457808203,45.980002,-3.133037,In Transit,10,False,Europe
+3029,2027-08-02,TrailRunner Logistics,828397762,-4.956001,-70.477764,Delivered,12,True,South America
+3504,2027-08-03,SnowWing Delivery,709125821,-29.086515,-51.270583,Delivered,13,True,South America
+3615,2027-08-04,GlacierLine Freight,958503565,45.843447,27.420726,Delivered,7,False,Europe
+3932,2027-08-05,SnowWing Delivery,883315929,42.769762,88.868952,Returned,1,False,Asia
+3754,2027-08-06,TrailRunner Logistics,990201330,-35.656019,-70.005526,Returned,8,False,South America
+3999,2027-08-07,SummitCargo Transport,829132782,54.340614,2.568331,Delayed,9,False,Europe
+3750,2027-08-08,GlacierLine Freight,956145554,-20.078379,-53.08466,In Transit,7,False,South America
+3181,2027-08-09,NorthPeak Express,977867536,37.50262,-98.627968,Returned,4,False,North America
+3194,2027-08-10,SnowWing Delivery,565898763,47.262824,149.948185,Delivered,11,True,Asia
+3186,2027-08-11,NorthPeak Express,843808312,50.557967,109.282361,Delivered,9,False,Asia
+3903,2027-08-12,GlacierLine Freight,965628873,28.721318,-113.051923,Delivered,2,False,North America
+3128,2027-08-13,SnowWing Delivery,924994810,53.032581,68.122064,Delivered,13,True,Asia
+3748,2027-08-14,NorthPeak Express,187002216,38.300542,-105.985381,Delivered,8,False,North America
+3385,2027-08-15,SummitCargo Transport,420102103,45.702539,-79.180329,Returned,10,False,North America
+3995,2027-08-16,SnowWing Delivery,605780820,51.905779,24.705794,Delivered,2,False,Europe
+3505,2027-08-17,GlacierLine Freight,854934575,55.97076,21.245995,Delayed,11,True,Europe
+3587,2027-08-18,GlacierLine Freight,474099080,49.699756,17.171563,Delayed,13,True,Europe
+3975,2027-08-19,SummitCargo Transport,648295068,55.58628,20.547927,In Transit,3,False,Europe
+3911,2027-08-20,GlacierLine Freight,690485210,37.425304,-123.081985,In Transit,4,False,North America
+3057,2027-08-21,SummitCargo Transport,253899786,45.256977,78.031857,In Transit,5,False,Asia
+3241,2027-08-22,SnowWing Delivery,864931351,-32.692801,-66.246942,Delivered,9,False,South America
+3696,2027-08-23,SnowWing Delivery,689635069,33.650764,-121.271701,Delivered,4,False,North America
+3849,2027-08-24,SummitCargo Transport,342857201,38.016892,-83.52376,Returned,13,True,North America
+3091,2027-08-25,SummitCargo Transport,756243621,16.533369,94.98058,Delivered,14,True,Asia
+3285,2027-08-26,SummitCargo Transport,625439613,39.767853,-82.095457,Delayed,2,False,North America
+3706,2027-08-27,SnowWing Delivery,217596704,49.46303,-115.256893,Delivered,6,False,North America
+3165,2027-08-28,SnowWing Delivery,625930338,-24.235566,-66.78236,Delivered,13,True,South America
+3347,2027-08-29,TrailRunner Logistics,856443544,-26.707023,-64.057736,Delivered,2,False,South America
+3043,2027-08-30,SnowWing Delivery,643636354,37.117314,114.166288,In Transit,1,False,Asia
+3135,2027-08-31,TrailRunner Logistics,337640998,34.269589,-103.443645,In Transit,7,False,North America
+3806,2027-09-01,SummitCargo Transport,258827190,55.179414,-9.858652,In Transit,12,True,Europe
+3916,2027-09-02,TrailRunner Logistics,512839060,-51.80905,-53.683897,Delayed,7,False,South America
+3390,2027-09-03,SnowWing Delivery,698197058,-18.257903,-76.678399,Delivered,14,True,South America
+3252,2027-09-04,NorthPeak Express,585241341,46.257985,8.446101,Delivered,4,False,Europe
+3775,2027-09-05,NorthPeak Express,992569626,51.780883,-0.147683,Delayed,10,False,Europe
+3628,2027-09-06,NorthPeak Express,610666891,-39.497975,-72.674714,Delivered,12,True,South America
+3551,2027-09-07,SummitCargo Transport,556908758,40.154358,-70.426149,In Transit,14,True,North America
+3869,2027-09-08,SummitCargo Transport,604017335,-44.678271,-74.50175,Returned,10,False,South America
+3595,2027-09-09,SnowWing Delivery,274610005,48.313862,-9.688377,Delivered,11,True,Europe
+3419,2027-09-10,NorthPeak Express,198357462,-17.323135,-50.832526,Delivered,4,False,South America
+3519,2027-09-11,SnowWing Delivery,733112331,32.384939,104.275073,Delivered,10,False,Asia
+3598,2027-09-12,NorthPeak Express,358525229,39.468067,-102.331749,Delayed,12,True,North America
+3941,2027-09-13,TrailRunner Logistics,227053672,-48.915726,-61.550317,In Transit,9,False,South America
+3626,2027-09-14,SummitCargo Transport,347780574,37.786867,-107.133207,Delivered,8,False,North America
+3320,2027-09-15,NorthPeak Express,259120265,43.307143,-92.865169,Delivered,6,False,North America
+3158,2027-09-16,GlacierLine Freight,970984236,55.263326,26.664304,Delivered,14,True,Europe
+3133,2027-09-17,GlacierLine Freight,478021676,-39.025686,-54.454524,Returned,8,False,South America
+3512,2027-09-18,SummitCargo Transport,369586121,35.073629,-73.754831,Delivered,12,True,North America
+3593,2027-09-19,NorthPeak Express,706933361,-51.6226,-42.385128,Delayed,11,True,South America
+3421,2027-09-20,SnowWing Delivery,561115438,55.035089,-4.476936,Delayed,7,False,Europe
+3834,2027-09-21,TrailRunner Logistics,415402002,45.424089,112.643827,In Transit,6,False,Asia
+3771,2027-09-22,TrailRunner Logistics,990302549,3.27325,-57.241879,Delayed,2,False,South America
+3016,2027-09-23,SummitCargo Transport,412766481,25.873912,108.201321,In Transit,3,False,Asia
+3481,2027-09-24,SnowWing Delivery,439346561,-17.834598,-54.923042,Delayed,11,True,South America
+3505,2027-09-25,TrailRunner Logistics,727130012,4.136663,-44.384534,Delivered,10,False,South America
+3128,2027-09-26,SummitCargo Transport,936521042,14.941919,138.453553,In Transit,5,False,Asia
+3571,2027-09-27,SnowWing Delivery,370195220,34.033987,91.140327,Returned,4,False,Asia
