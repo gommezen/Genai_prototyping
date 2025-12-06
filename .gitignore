@@ -1,0 +1,64 @@
+# -----------------------------
+# Python / Virtual Environment
+# -----------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Environment Variables
+# -----------------------------
+.env
+.env.*
+
+# -----------------------------
+# Streamlit cache and artifacts
+# -----------------------------
+.streamlit/
+**/.streamlit/
+**/.cache/
+*/.cache/
+cache/
+logs/
+
+# -----------------------------
+# Jupyter Notebook Checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# -----------------------------
+# Data files (optional)
+# Comment these out if needed
+# -----------------------------
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.pdf
+data/
+datasets/
+
+# -----------------------------
+# VSCode / Editor settings
+# -----------------------------
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# Mac / Windows system files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Ollama model caches (local only)
+# -----------------------------
+ollama/
+ollama_models/
+

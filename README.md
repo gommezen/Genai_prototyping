@@ -14,7 +14,7 @@ Additional Streamlit apps explore ingestion and analysis of structured datasets,
 
 ### 1. Create and activate the virtual environment
 python -m venv .venv
-# Windows PowerShell
+
 .venv\Scripts\Activate.ps1
 
 ### 2. Install dependencies
@@ -24,4 +24,4 @@ pip install -r requirements.txt
 streamlit run apps/app_reader01.py
 # or
 streamlit run app_reader.py
-# or any other app in the repository
+
